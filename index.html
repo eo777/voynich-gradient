@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Voynich gradients · Overview</title><link rel="stylesheet" href="style.css?v=e0b2c25fb6"><link rel="stylesheet" href="package.css?v=9db7e872d7"><link rel="stylesheet" href="pages.css?v=269661ccac"><script src="release.js?v=7b55d89a12"></script><script src="site_nav.js?v=2a5384a73c" defer></script><style>.ov p,.ov li{font-size:15px;line-height:1.55}.ov ul{margin:0;padding-left:20px}.ov li{margin:0 0 7px}.ov .panel{margin-bottom:16px}.ov-table td,.ov-table th{vertical-align:top;font-size:14px}.ov-table td:first-child{white-space:nowrap;font-weight:650}.ov-example{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:13px;background:#f3f5f4;padding:3px 7px;border-radius:4px}#axis-diagram svg{display:block;width:100%;height:auto}.ov dl{display:grid;grid-template-columns:150px 1fr;gap:6px 14px;margin:0;font-size:14px}.ov dt{font-family:ui-monospace,Consolas,monospace;font-weight:650}.ov dd{margin:0}.ov .lead{font-size:17px}@media(max-width:700px){.ov dl{grid-template-columns:1fr}}</style></head><body>
+<nav class="package-nav" aria-label="Voynich gradients"></nav>
+<header class="masthead"><div class="eyebrow">VOYNICH GRADIENTS · OVERVIEW</div><h1>Overview</h1><nav><a href="#gradient">The gradient</a><a href="#model">The model</a><a href="#order">Order and axes</a><a href="#constructions">Constructions</a><a href="#groups-vs-families">Groups vs families</a><a href="#reading">Reading the charts</a><a href="#pages">Pages</a><a href="#caveats">Caveats</a></nav></header>
+<main class="ov">
+<section id="gradient"><div class="section-title"><span class="number">01</span><div><h2>The gradient</h2></div></div>
+<article class="panel"><p class="lead">The <strong>gradient</strong> is the fitted change in each construction's rate at each step along the proposed order, in tokens per 10,000 words.</p><ul>
+<li>Each value has two parts. The <strong>gradual change</strong> comes from a smooth curve. The <strong>signed jump</strong> is the level difference at that bifolium that the smooth curve could not follow, absorbed by a step term. It is mostly bifolium-specific variation; only a jump that persists suggests a real shift.</li>
+<li>The <a href="matrix.html">gradient matrix</a> is this table: 544 constructions by 49 steps on Path 1, one colour per cell. Teal rises, orange falls.</li>
+<li>Example: <span class="ov-example">suffix:edy</span> rises from 31 per 10,000 at the first bifolium to 1,742 at the last.</li>
+<li>Its largest gradual step is +843 into H:57-66 (entering 3b); its largest jump is +545 into M:76-83.</li>
+<li>Example: <span class="ov-example">cho</span> falls from 2,216 to 107 per 10,000; its largest step is −335 into O:87-90 (2a).</li>
+<li>The other pages group these values, partition the words, time them, audit them, or apply them to text.</li>
+</ul></article></section>
+
+<section id="model"><div class="section-title"><span class="number">02</span><div><h2>The model</h2></div></div>
+<article class="panel"><ul>
+<li>The manuscript has 34,977 readable word tokens, 7,180 distinct spellings, 207 pages and 50 bifolia. A bifolium is one folded sheet of four pages.</li>
+<li>The model gives every spelling a probability at every bifolium. The probabilities sum to one, so a spelling gains share only if others lose it.</li>
+<li>A spelling's probability is set by the constructions it contains (section 04). Each construction has a fixed weight, a gradual curve along the order and, where the curve misses a bifolium, a step term.</li>
+<li>Gradual curves are penalised: 544 of 1,324 constructions got one on Path 1, with 42 steps. The rest still move through overlapping constructions.</li>
+<li>A construction's <strong>carrier rate</strong> is the summed probability of the spellings containing it, per 10,000 words.</li>
+<li>The <strong>gradual level</strong> is the carrier rate from the smooth curve alone. <strong>Gradual + jumps</strong> adds the step terms. The <strong>residual</strong> is the observed rate minus gradual + jumps.</li>
+</ul></article></section>
+
+<section id="order"><div class="section-title"><span class="number">03</span><div><h2>The order, and the two x axes</h2></div></div>
+<article class="panel"><ul>
+<li><strong>Path 1</strong> is the proposed sequence of the 50 bifolia, from an earlier composition study (the Golf study). <strong>Path 3</strong> is an alternative sequence for sensitivity checks.</li>
+<li>That study also placed each bifolium on a geometric curve. Its position on the curve, from 0 to 1, is the <strong>path coordinate</strong>. The model was fitted on that coordinate.</li>
+<li>The coordinate is very unevenly spaced. The last five bifolia, all 4a, cover 0.1% of it. Some neighbouring bifolia in the middle are far apart.</li>
+</ul><div id="axis-diagram" class="chart" style="margin:14px 0"></div><ul>
+<li>So the same 50 bifolia can be drawn two ways. <strong>Index spacing</strong> gives every bifolium one equal column (upper row). <strong>Path spacing</strong> places it by its coordinate (lower row).</li>
+<li>All charts and matrices use index spacing. The shaded bands are the eleven <strong>Golf sections</strong>, 1a to 4a: blocks of the sequence named by the same study.</li>
+<li>On the index axis there are two kinds of column.</li>
+<li><strong>Bifolia</strong>: one column per bifolium, showing a value there, such as the fitted slope or level.</li>
+<li><strong>Steps</strong>: one column per change between consecutive bifolia (49 steps), labelled by the destination bifolium.</li>
+<li>The <strong>Columns</strong> control switches between them on the matrix, groups and chronology pages, and stays set across pages.</li>
+<li>A slope divides change by path distance, so near-tied bifolia give steep slopes. The Steps view shows the change itself.</li>
+</ul></article></section>
+
+<section id="constructions"><div class="section-title"><span class="number">04</span><div><h2>Constructions</h2></div></div>
+<article class="panel"><p>A construction is a yes-or-no rule about a spelling. The spellings that match it are its <strong>carrier words</strong>; their tokens are its carrier tokens. Older pages say “component” for construction.</p>
+<dl><dt>anywhere</dt><dd>a glyph sequence anywhere in the word: <span class="ov-example">eo</span>, <span class="ov-example">cho</span></dd>
+<dt>prefix · suffix</dt><dd>a sequence at the start or end of a longer word: <span class="ov-example">prefix:qok</span>, <span class="ov-example">suffix:edy</span>, <span class="ov-example">y$</span></dd>
+<dt>interior</dt><dd>a sequence with glyphs on both sides of it: <span class="ov-example">interior:e</span>, <span class="ov-example">interior:ok</span></dd>
+<dt>ordered pair</dt><dd>two spans immediately following one another: <span class="ov-example">interior:ok >> suffix:edy</span></dd>
+<dt>co-occurrence</dt><dd>two patterns both present, in any position</dd></dl>
+<p style="margin-top:12px">Constructions overlap heavily. <span class="ov-example">qokedy</span> carries <span class="ov-example">prefix:qok</span>, <span class="ov-example">suffix:edy</span>, <span class="ov-example">interior:ok</span>, <span class="ov-example">e</span> and many more, so its probability combines all their weights.</p></article></section>
+
+<section id="groups-vs-families"><div class="section-title"><span class="number">05</span><div><h2>Component groups versus exclusive families</h2><p>Two different ways of grouping. Groups collect curves and overlap; families partition the words and do not.</p></div></div>
+<div class="table-wrap"><table class="ov-table"><thead><tr><th></th><th>Component groups</th><th>Exclusive families</th></tr></thead><tbody>
+<tr><td>What is grouped</td><td>The 544 constructions with their own gradual curve.</td><td>All 7,180 spellings.</td></tr>
+<tr><td>How</td><td>Ward clustering of the curves' slopes, scaled to unit length. Twelve groups, a descriptive cut.</td><td>Repeated splits of the vocabulary by one construction at a time (“has interior:e” / “does not”), to depth four. Sixteen families, numbered, each shown as a glyph template of its positive conditions.</td></tr>
+<tr><td>Overlap</td><td>Yes. A word carrying effects from two groups counts in both. A group's volume is the union of its carrier words.</td><td>No. Every word is in exactly one family, and the sixteen volumes sum to 10,000 at every bifolium.</td></tr>
+<tr><td>Question answered</td><td>Which movement patterns recur across many constructions, and when.</td><td>Where the vocabulary's volume goes, without counting a word twice.</td></tr>
+<tr><td>Example</td><td><span class="ov-example">Group 1: ^sh · ckh · e$ · k · sh · y · y$ …</span></td><td><span class="ov-example">+ interior:e − eo + ed + suffix:edy</span>, meaning has interior:e, no eo, has ed, ends in edy</td></tr>
+<tr><td>Pages</td><td><a href="behavior.html">Component groups</a>, <a href="chronology.html#timing">Chronology</a></td><td><a href="partitions.html">Families</a>, <a href="chronology.html#family-timing">Chronology</a></td></tr>
+</tbody></table></div>
+<p style="margin-top:12px">A construction belongs to one group, but its carrier words can spread over several families; the Component curves page shows that split. The Curve MDS page compares the same 544 curves as points, not the families.</p></section>
+
+<section id="reading"><div class="section-title"><span class="number">06</span><div><h2>Reading the charts and matrices</h2></div></div>
+<article class="panel"><ul>
+<li>Teal means an increase, or a value above the row's usual level; orange a decrease or below; white no change.</li>
+<li>One colour scale is shared by all displayed rows and saturates at the 95th percentile of absolute values.</li>
+<li>Gradual change plus signed jump equals the combined change at each step. A jump is a local level difference absorbed by a step term, not a slope; treat it as unexplained bifolium variation unless it persists.</li>
+<li>Row order “Ward” places similar movement shapes together; “Movement timing” sorts rows early to late by the midpoint of their cumulative change.</li>
+<li>The Chronology page measures how far the whole fitted vocabulary moves at each step and numbers the peaks. The same numbers are drawn through the group and family timing matrices.</li>
+<li>Hovering a cell gives the exact value; in the gradient matrix it also gives the raw page counts.</li>
+</ul></article></section>
+
+<section id="pages"><div class="section-title"><span class="number">07</span><div><h2>The pages</h2></div></div>
+<div class="table-wrap"><table class="ov-table"><tbody>
+<tr><td><a href="matrix.html">Gradient matrix</a></td><td>The gradient itself: every construction's change at every step, as one heatmap, with filters and a row inspector.</td></tr>
+<tr><td><a href="components.html">Component curves</a></td><td>One construction in full: rate, gradual level, jumps, residual, own effect, drivers, carrier words, pages, and its split across the families.</td></tr>
+<tr><td><a href="behavior.html">Component groups</a></td><td>The twelve groups and their timing; two constructions compared through shared words; word and construction lookups.</td></tr>
+<tr><td><a href="feature-mds.html">Curve MDS</a></td><td>The 544 curves as points, near when their shapes are similar.</td></tr>
+<tr><td><a href="partitions.html">Families</a></td><td>The exclusive tree, any split inspected, and the sixteen family volumes.</td></tr>
+<tr><td><a href="chronology.html">Chronology</a></td><td>Where the vocabulary moves most, with group and family timing matrices and the contents of each peak.</td></tr>
+<tr><td><a href="residuals.html">Residual audit</a></td><td>Where the fit misses, a construction's residual beside its pages, and a check on held-out pages.</td></tr>
+</tbody></table></div></section>
+
+<section id="caveats"><div class="section-title"><span class="number">08</span><div><h2>Caveats</h2></div></div>
+<article class="panel"><ul>
+<li>Everything is conditional on the proposed order and geometry, which are assumed, not tested.</li>
+<li>Missing quires (gatherings of bifolia) can hide intermediate stages. A peak between two surviving bifolia is not evidence of a sudden event.</li>
+<li>The model describes how the mix of spellings differs along the order. It does not show which spelling became which, that constructions act independently, or that meaning was kept.</li>
+<li>Groups and families are descriptive cuts chosen on these data, without significance tests. Held-page checks are repeatability checks, not forecasts.</li>
+</ul></article></section>
+<details class="data-details"><summary>Model notes</summary><p>Model <code>positional-composition-544-v1</code>, 24 October 2026: for spelling <em>w</em> at coordinate <em>s</em>, probability ∝ prior(<em>w</em>) · exp(X(<em>w</em>)[α + B(<em>s</em>)β + H(<em>s</em>)δ]) with X the construction indicators, α static weights, Bβ gradual curves and Hδ steps; gradual penalty 0.006, step penalty 0.006. Path 3 is a separate refit (541 curves, 34 steps). Formal definitions and reproduction are in the package's model note; the asset fields in its data dictionary.</p></details>
+</main><script src="behavior_charts.js?v=8a3eea32bb"></script><script src="positional_data.js?v=a738f889c7"></script><script src="overview.js?v=d65140882f"></script></body></html>

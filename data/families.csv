@@ -1,0 +1,17 @@
+family,template,template_match,rule,tokens,spellings,hapaxes,largest_word
+1,*keol,0.7617,+ interior:e + eo + ol + interior:k,193,58,48,okeol
+2,*eol,0.8458,+ interior:e + eo + ol − interior:k,590,137,96,cheol
+3,*eod*,0.9983,+ interior:e + eo − ol + od,572,188,125,cheody
+4,*eo*,1.0,+ interior:e + eo − ol − od,903,335,233,cheor
+5,*edy,1.0,+ interior:e − eo + ed + suffix:edy,2829,256,142,chedy
+6,*ed*,1.0,+ interior:e − eo + ed − suffix:edy,596,279,201,chedaiin
+7,*k*e*,0.7126,+ interior:e − eo − ed + interior:k,769,265,206,qokey
+8,*e*,1.0,+ interior:e − eo − ed − interior:k,2326,614,449,chey
+9,*aiin,0.9913,− interior:e + a + n + interior:aii,3002,362,230,daiin
+10,*a*n,0.9841,− interior:e + a + n − interior:aii,2203,310,222,aiin
+11,da*,0.9602,− interior:e + a − n + ^d,1029,177,129,dar
+12,*a*,1.0,− interior:e + a − n − ^d,4962,1466,1083,ar
+13,*eed*,1.0,− interior:e − a + ee + eed,1172,118,66,qokeedy
+14,*ee*,1.0,− interior:e − a + ee − eed,2333,490,325,qokeey
+15,*ch*,1.0,− interior:e − a − ee + ch,3708,835,552,chol
+16,*,1.0,− interior:e − a − ee − ch,7790,1290,829,ol

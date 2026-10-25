@@ -1,0 +1,17 @@
+family,template,template_match,rule,tokens,spellings,hapaxes,largest_word
+1,*chody,0.8795,+ interior:d + od + cho + suffix:dy,166,43,27,chody
+2,*chod*,0.9718,+ interior:d + od + cho − suffix:dy,142,56,38,chodaiin
+3,*eod*,0.9655,+ interior:d + od − cho + e,550,192,136,cheody
+4,*od*,1.0,+ interior:d + od − cho − e,938,349,244,odaiin
+5,*edy,1.0,+ interior:d − od + interior:e + suffix:edy,2838,264,149,chedy
+6,*ed*,0.8651,+ interior:d − od + interior:e − suffix:edy,578,301,228,chedaiin
+7,*eed*,0.9839,+ interior:d − od − interior:e + ee,1243,190,126,qokeedy
+8,*d*,1.0,+ interior:d − od − interior:e − ee,1519,622,455,chdy
+9,*cheo*,0.9558,− interior:d + ch + interior:e + eo,792,245,170,cheol
+10,*che*,0.8962,− interior:d + ch + interior:e − eo,1647,433,309,chey
+11,*cho*,1.0,− interior:d + ch − interior:e + cho,1947,465,312,chol
+12,*ch*,1.0,− interior:d + ch − interior:e − cho,2392,699,499,cheey
+13,*a*n,0.9895,− interior:d − ch + a + n,4457,424,285,daiin
+14,*a*,1.0,− interior:d − ch + a − n,4898,1053,762,ar
+15,*y,1.0,− interior:d − ch − a + suffix:y,4303,702,465,qokeey
+16,*,1.0,− interior:d − ch − a − suffix:y,6567,1142,731,ol

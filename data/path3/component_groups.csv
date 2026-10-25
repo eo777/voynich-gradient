@@ -1,0 +1,542 @@
+component_group,construction,kind,tokens
+1,^cfh,prefix,32
+1,^q,prefix,5315
+1,^s,prefix,1191
+1,l,pattern,9027
+1,l$,suffix,5435
+1,o,pattern,19707
+1,q,pattern,5346
+1,s,pattern,2215
+1,interior:l,position,2749
+1,interior:o,position,12958
+1,prefix:s,position,881
+1,suffix:l,position,5270
+1,do,pattern,446
+1,ka,pattern,2870
+1,ko,pattern,653
+1,ky,pattern,683
+1,lch,pattern,707
+1,ld,pattern,414
+1,lo,pattern,492
+1,ls,pattern,128
+1,lsh,pattern,290
+1,ly,pattern,382
+1,ol,pattern,5042
+1,oo,pattern,66
+1,po,pattern,222
+1,qo,pattern,5218
+1,ro,pattern,317
+1,sa,pattern,512
+1,so,pattern,334
+1,interior:do,position,124
+1,interior:ka,position,2585
+1,interior:ko,position,471
+1,interior:lch,position,391
+1,interior:ld,position,333
+1,interior:lk,position,596
+1,interior:lo,position,288
+1,interior:lsh,position,176
+1,interior:lt,position,61
+1,interior:ok,position,3483
+1,interior:ol,position,891
+1,interior:oo,position,57
+1,interior:op,position,196
+1,interior:or,position,255
+1,interior:ro,position,210
+1,prefix:do,position,297
+1,prefix:ko,position,156
+1,prefix:ol,position,968
+1,prefix:or,position,175
+1,prefix:po,position,167
+1,prefix:qo,position,5141
+1,prefix:sa,position,427
+1,prefix:so,position,296
+1,suffix:ky,position,633
+1,suffix:ly,position,360
+1,suffix:ol,position,2744
+1,prefix:olk,position,342
+1,prefix:olo,position,75
+1,prefix:qok,position,3061
+1,prefix:qol,position,104
+1,prefix:qop,position,159
+1,prefix:saii,position,131
+1,suffix:kal,position,415
+1,suffix:kar,position,441
+1,suffix:kol,position,209
+1,suffix:ldy,position,215
+1,suffix:lor,position,101
+1,suffix:oky,position,228
+1,suffix:oly,position,104
+1,interior:k >> interior:ai,interaction,683
+1,interior:k >> interior:aii,interaction,723
+1,interior:k >> suffix:aiin,interaction,704
+1,interior:k >> suffix:ain,interaction,594
+1,interior:o >> interior:ka,interaction,1128
+1,interior:o >> interior:ta,interaction,361
+1,interior:o >> suffix:kal,interaction,206
+1,interior:ok >> interior:aii,interaction,301
+1,interior:ok >> interior:al,interaction,53
+1,interior:ok >> suffix:aiin,interaction,295
+1,interior:ok >> suffix:ain,interaction,304
+1,prefix:qo >> interior:ka,interaction,1015
+1,prefix:qo >> interior:ta,interaction,306
+1,prefix:qok >> interior:aii,interaction,269
+1,prefix:qok >> interior:al,interaction,48
+2,',pattern,23
+2,^cth,prefix,463
+2,^t,prefix,963
+2,cfh,pattern,62
+2,cth,pattern,854
+2,ii,pattern,4068
+2,iii,pattern,170
+2,k$,suffix,77
+2,n,pattern,5814
+2,n$,suffix,5748
+2,sh$,suffix,32
+2,t,pattern,5055
+2,{ckhh},pattern,22
+2,interior:',position,20
+2,interior:cfh,position,30
+2,interior:cth,position,389
+2,interior:ii,position,4062
+2,interior:iii,position,168
+2,interior:t,position,4049
+2,prefix:cth,position,460
+2,prefix:t,position,956
+2,suffix:k,position,72
+2,suffix:n,position,5745
+2,aii,pattern,3853
+2,ctho,pattern,217
+2,cthy,pattern,351
+2,iiin,pattern,157
+2,iin,pattern,3863
+2,octh,pattern,131
+2,oii,pattern,186
+2,or,pattern,2448
+2,ot,pattern,3205
+2,oy,pattern,109
+2,py,pattern,65
+2,sho,pattern,936
+2,shy,pattern,258
+2,tch,pattern,912
+2,to,pattern,602
+2,tsh,pattern,165
+2,ty,pattern,434
+2,interior:aii,position,3341
+2,interior:aiii,position,76
+2,interior:ctho,position,34
+2,interior:octh,position,96
+2,interior:oii,position,148
+2,interior:ot,position,1331
+2,interior:sho,position,142
+2,interior:tch,position,653
+2,interior:to,position,390
+2,interior:tsh,position,81
+2,prefix:ctho,position,160
+2,prefix:sho,position,622
+2,prefix:to,position,193
+2,prefix:tsh,position,82
+2,suffix:cthy,position,243
+2,suffix:iiin,position,154
+2,suffix:iin,position,3825
+2,suffix:or,position,1679
+2,suffix:oy,position,78
+2,suffix:ty,position,378
+2,prefix:chot,position,132
+2,prefix:daii,position,875
+2,prefix:oto,position,163
+2,prefix:qot,position,1082
+2,prefix:tcho,position,73
+2,suffix:aiin,position,3184
+2,suffix:chor,position,226
+2,suffix:octhy,position,55
+2,suffix:oiin,position,132
+2,suffix:oty,position,149
+2,suffix:tol,position,149
+2,interior:o >> interior:tch,interaction,258
+2,interior:o >> interior:to,interaction,141
+2,interior:t >> interior:aii,interaction,305
+2,interior:t >> suffix:aiin,interaction,293
+2,interior:t >> suffix:chor,interaction,40
+2,prefix:qo >> interior:tch,interaction,208
+2,prefix:qo >> interior:to,interaction,110
+3,^sh,prefix,3059
+3,d,pattern,11468
+3,sh,pattern,4223
+3,y,pattern,15245
+3,y$,suffix,14226
+3,interior:ckh,position,658
+3,interior:d,position,7974
+3,prefix:sh,position,3041
+3,suffix:y,position,13969
+3,chckh,pattern,232
+3,ckhy,pattern,430
+3,dy,pattern,6388
+3,eckh,pattern,130
+3,ecth,pattern,64
+3,ed,pattern,3441
+3,ke,pattern,1562
+3,shckh,pattern,93
+3,she,pattern,1976
+3,te,pattern,796
+3,interior:eckh,position,129
+3,interior:ed,position,3324
+3,interior:ke,position,1390
+3,interior:te,position,670
+3,prefix:chckh,position,220
+3,prefix:shckh,position,90
+3,prefix:she,position,1379
+3,prefix:te,position,126
+3,suffix:ckhy,position,392
+3,suffix:dy,position,6049
+3,prefix:ched,position,648
+3,prefix:oke,position,386
+3,suffix:key,position,248
+3,suffix:tey,position,100
+3,interior:k >> interior:ed,interaction,578
+3,interior:k >> suffix:edy,interaction,507
+3,interior:o >> interior:ke,interaction,667
+3,interior:t >> interior:ed,interaction,328
+3,interior:t >> suffix:edy,interaction,280
+3,prefix:ok >> interior:ed,interaction,137
+3,prefix:qo >> interior:ke,interaction,605
+3,prefix:qok >> interior:ed,interaction,298
+4,^a,prefix,1806
+4,^l,prefix,1408
+4,ee,pattern,3926
+4,eee,pattern,348
+4,i,pattern,2323
+4,k,pattern,9053
+4,interior:ee,position,3877
+4,interior:eee,position,324
+4,interior:i,position,2318
+4,interior:k,position,7797
+4,prefix:a,position,1800
+4,prefix:l,position,1243
+4,ai,pattern,2271
+4,chk,pattern,150
+4,eea,pattern,79
+4,eed,pattern,1308
+4,eeed,pattern,74
+4,eeey,pattern,169
+4,eey,pattern,1595
+4,ep,pattern,60
+4,in,pattern,1674
+4,kee,pattern,1860
+4,keee,pattern,162
+4,lk,pattern,1014
+4,ok,pattern,5544
+4,ra,pattern,559
+4,sha,pattern,136
+4,shee,pattern,475
+4,tee,pattern,590
+4,interior:ai,position,2057
+4,interior:eea,position,73
+4,interior:eed,position,1242
+4,interior:kee,position,1659
+4,interior:keee,position,138
+4,interior:ra,position,402
+4,interior:tee,position,527
+4,prefix:ai,position,211
+4,prefix:al,position,197
+4,prefix:chk,position,137
+4,prefix:lch,position,315
+4,prefix:lk,position,416
+4,prefix:ok,position,2034
+4,prefix:pch,position,241
+4,prefix:ra,position,166
+4,prefix:sha,position,104
+4,prefix:shee,position,351
+4,suffix:eeey,position,162
+4,suffix:eey,position,1568
+4,suffix:in,position,1650
+4,prefix:okee,position,370
+4,prefix:ote,position,336
+4,prefix:otee,position,260
+4,suffix:ain,position,1516
+4,suffix:dal,position,234
+4,suffix:keey,position,698
+4,interior:a >> interior:ra,interaction,130
+4,interior:d >> interior:ai,interaction,251
+4,interior:d >> suffix:ain,interaction,185
+4,interior:o >> interior:kee,interaction,792
+4,interior:o >> suffix:keey,interaction,337
+4,prefix:qo >> interior:kee,interaction,737
+5,^ch,prefix,5607
+5,^e,prefix,47
+5,^ee,prefix,29
+5,ckh,pattern,833
+5,e,pattern,8861
+5,e$,suffix,58
+5,ee$,suffix,21
+5,{ck},pattern,20
+5,interior:e,position,8778
+5,prefix:ch,position,5599
+5,prefix:e,position,45
+5,suffix:e,position,56
+5,che,pattern,3960
+5,ckhe,pattern,220
+5,ea,pattern,327
+5,ech,pattern,112
+5,eek,pattern,82
+5,et,pattern,132
+5,ey,pattern,1987
+5,interior:ea,position,322
+5,interior:ech,position,110
+5,interior:eek,position,76
+5,interior:et,position,109
+5,prefix:che,position,2169
+5,prefix:ke,position,172
+5,prefix:kee,position,200
+5,suffix:ey,position,1948
+5,prefix:chet,position,60
+5,suffix:eal,position,82
+5,suffix:shey,position,158
+6,^p,prefix,530
+6,^y,prefix,1730
+6,ch$,suffix,23
+6,d$,suffix,574
+6,p,pattern,1275
+6,interior:cph,position,70
+6,interior:p,position,722
+6,interior:sh,position,1179
+6,interior:y,position,404
+6,prefix:p,position,528
+6,prefix:y,position,1473
+6,suffix:d,position,528
+6,chy,pattern,905
+6,op,pattern,513
+6,pch,pattern,696
+6,teee,pattern,41
+6,ych,pattern,228
+6,yd,pattern,151
+6,yk,pattern,620
+6,yp,pattern,77
+6,ysh,pattern,91
+6,yt,pattern,528
+6,interior:cho,position,770
+6,interior:dy,position,63
+6,interior:ksh,position,128
+6,interior:pch,position,455
+6,interior:she,position,569
+6,prefix:dy,position,57
+6,prefix:op,position,305
+6,prefix:ot,position,1843
+6,prefix:tch,position,257
+6,prefix:ych,position,208
+6,prefix:yk,position,510
+6,prefix:yp,position,65
+6,prefix:ysh,position,80
+6,prefix:yt,position,454
+6,suffix:chy,position,714
+6,suffix:shy,position,152
+6,prefix:opch,position,185
+6,prefix:otch,position,249
+6,prefix:yta,position,121
+6,interior:ch >> interior:ed,interaction,815
+6,interior:ch >> suffix:edy,interaction,711
+6,interior:kch >> interior:ed,interaction,103
+6,interior:kch >> suffix:edy,interaction,98
+6,interior:t >> interior:che,interaction,191
+6,prefix:qo >> interior:kch,interaction,260
+7,f,pattern,342
+7,interior:f,position,219
+7,chd,pattern,740
+7,ef,pattern,34
+7,ek,pattern,314
+7,fch,pattern,172
+7,of,pattern,127
+7,rd,pattern,34
+7,shd,pattern,169
+7,interior:chd,position,454
+7,interior:ek,position,291
+7,interior:fch,position,111
+7,interior:rd,position,29
+7,prefix:chd,position,246
+7,prefix:shd,position,75
+7,prefix:chek,position,139
+7,suffix:chdy,position,363
+8,^o,prefix,7170
+8,a,pattern,12364
+8,x,pattern,22
+8,interior:a,position,10667
+8,prefix:o,position,7024
+8,aiii,pattern,126
+8,fa,pattern,57
+8,la,pattern,323
+8,oa,pattern,229
+8,pa,pattern,160
+8,ta,pattern,1436
+8,interior:al,position,625
+8,interior:fa,position,46
+8,interior:la,position,278
+8,interior:oa,position,165
+8,interior:pa,position,120
+8,interior:ta,position,1244
+8,prefix:aii,position,512
+8,prefix:ka,position,283
+8,prefix:oa,position,64
+8,prefix:ta,position,187
+8,prefix:oka,position,753
+8,prefix:ota,position,649
+8,suffix:aly,position,166
+8,suffix:lar,position,41
+8,suffix:tal,position,224
+8,interior:a >> interior:la,interaction,65
+8,interior:a >> interior:ld,interaction,97
+8,interior:k >> interior:al,interaction,127
+8,interior:t >> interior:al,interaction,73
+9,^ckh,prefix,173
+9,^cph,prefix,119
+9,cph,pattern,189
+9,s$,suffix,1124
+9,{ct},pattern,17
+9,suffix:f,position,15
+9,suffix:s,position,814
+9,ckho,pattern,91
+9,cthe,pattern,162
+9,eees,pattern,45
+9,od,pattern,1981
+9,interior:da,position,1563
+9,interior:od,position,1582
+9,prefix:ckhe,position,53
+9,prefix:ckho,position,47
+9,prefix:cthe,position,95
+9,prefix:od,position,214
+9,suffix:eees,position,33
+9,suffix:od,position,179
+9,prefix:chod,position,183
+9,prefix:oda,position,139
+9,prefix:oko,position,147
+9,prefix:qod,position,114
+9,prefix:shod,position,97
+9,suffix:ody,position,941
+9,interior:ch >> interior:eo,interaction,282
+9,interior:d >> interior:aii,interaction,526
+9,interior:d >> suffix:aiin,interaction,511
+9,interior:e >> interior:od,interaction,533
+9,interior:e >> suffix:ody,interaction,386
+9,interior:o >> interior:da,interaction,515
+9,interior:od >> interior:aii,interaction,235
+9,interior:od >> suffix:aiin,interaction,230
+10,eeo,pattern,578
+10,eo,pattern,2264
+10,ockh,pattern,171
+10,oe,pattern,126
+10,oee,pattern,145
+10,os,pattern,363
+10,interior:eeo,position,444
+10,interior:eo,position,2013
+10,interior:ockh,position,139
+10,interior:oe,position,94
+10,interior:oee,position,98
+10,suffix:os,position,279
+10,prefix:cheo,position,570
+10,prefix:sheo,position,298
+10,suffix:eeol,position,103
+10,suffix:eeor,position,80
+10,suffix:eol,position,655
+10,suffix:eor,position,284
+10,interior:k >> interior:eo,interaction,377
+10,interior:k >> suffix:eol,interaction,147
+10,interior:ok >> interior:eo,interaction,149
+10,interior:t >> interior:eo,interaction,168
+10,prefix:qok >> interior:eo,interaction,130
+11,^d,prefix,3289
+11,^f,prefix,108
+11,^k,prefix,1204
+11,^r,prefix,485
+11,a$,suffix,59
+11,b,pattern,15
+11,ch,pattern,9836
+11,o$,suffix,1155
+11,t$,suffix,62
+11,interior:s,position,251
+11,prefix:d,position,3243
+11,prefix:f,position,107
+11,prefix:k,position,1199
+11,prefix:r,position,346
+11,suffix:a,position,53
+11,suffix:o,position,1009
+11,suffix:t,position,55
+11,an,pattern,107
+11,cha,pattern,458
+11,chee,pattern,690
+11,cho,pattern,2408
+11,chs,pattern,76
+11,da,pattern,3677
+11,dch,pattern,301
+11,dl,pattern,69
+11,dsh,pattern,156
+11,ees,pattern,149
+11,es,pattern,117
+11,ksh,pattern,202
+11,och,pattern,138
+11,rch,pattern,118
+11,ry,pattern,205
+11,sch,pattern,63
+11,sy,pattern,95
+11,interior:che,position,1810
+11,interior:chee,position,264
+11,prefix:cha,position,268
+11,prefix:chee,position,422
+11,prefix:cho,position,1480
+11,prefix:da,position,2113
+11,prefix:dch,position,252
+11,prefix:kch,position,245
+11,prefix:och,position,56
+11,prefix:sch,position,53
+11,suffix:an,position,100
+11,suffix:cho,position,106
+11,suffix:eeo,position,127
+11,suffix:ees,position,127
+11,suffix:eo,position,247
+11,suffix:es,position,83
+11,suffix:ry,position,183
+11,prefix:chok,position,180
+11,prefix:dai,position,365
+11,suffix:cheey,position,133
+11,suffix:chey,position,503
+11,suffix:dar,position,331
+11,interior:k >> interior:che,interaction,220
+12,g,pattern,121
+12,g$,suffix,114
+12,m,pattern,932
+12,m$,suffix,907
+12,r,pattern,6339
+12,r$,suffix,5188
+12,interior:ch,position,4447
+12,interior:n,position,66
+12,interior:r,position,990
+12,suffix:g,position,102
+12,suffix:m,position,901
+12,suffix:r,position,5049
+12,al,pattern,2598
+12,am,pattern,703
+12,ar,pattern,2823
+12,as,pattern,67
+12,ctha,pattern,64
+12,iir,pattern,132
+12,ir,pattern,512
+12,kch,pattern,966
+12,om,pattern,162
+12,interior:ar,position,325
+12,interior:cha,position,187
+12,interior:ir,position,98
+12,interior:kch,position,718
+12,interior:sa,position,83
+12,prefix:ctha,position,48
+12,suffix:al,position,1598
+12,suffix:am,position,611
+12,suffix:ar,position,2074
+12,suffix:iir,position,117
+12,suffix:ir,position,414
+12,suffix:om,position,138
+12,prefix:chol,position,111
+12,prefix:dal,position,155
+12,prefix:okch,position,190
+12,suffix:aiir,position,72
+12,suffix:air,position,346
+12,suffix:chol,position,226
+12,suffix:kchy,position,180
+12,interior:o >> interior:kch,interaction,318

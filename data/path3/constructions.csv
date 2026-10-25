@@ -1,0 +1,1325 @@
+construction,id,kind,active,component_group,ward_order,tokens,spellings,rms
+',PC0000,pattern,1,2,86,23,20,0.010283
+^a,PC0001,prefix,1,4,219,1806,264,0.463423
+^cfh,PC0002,prefix,1,1,83,32,19,0.090262
+^ch,PC0003,prefix,1,5,270,5607,968,0.032549
+^ckh,PC0004,prefix,1,9,415,173,46,0.721873
+^cph,PC0005,prefix,1,9,417,119,53,0.33527
+^cth,PC0006,prefix,1,2,135,463,76,0.569496
+^d,PC0007,prefix,1,11,496,3289,529,0.291266
+^e,PC0008,prefix,1,5,283,47,39,0.073088
+^ee,PC0009,prefix,1,5,281,29,21,0.000109
+^eee,PC0010,prefix,0,,,23,9,0.0
+^f,PC0011,prefix,1,11,495,108,80,0.001763
+^k,PC0012,prefix,1,11,469,1204,328,0.097019
+^l,PC0013,prefix,1,4,253,1408,353,0.379822
+^o,PC0014,prefix,1,8,386,7170,1346,0.051973
+^p,PC0015,prefix,1,6,306,530,289,0.163212
+^q,PC0016,prefix,1,1,11,5315,825,0.088532
+^r,PC0017,prefix,1,11,474,485,116,0.204498
+^s,PC0018,prefix,1,1,61,1191,263,0.220349
+^sh,PC0019,prefix,1,3,172,3059,517,0.031548
+^t,PC0020,prefix,1,2,117,963,347,0.028702
+^y,PC0021,prefix,1,6,327,1730,505,0.178254
+a,PC0022,pattern,1,8,372,12364,2923,0.170546
+a$,PC0023,suffix,1,11,466,59,36,0.026859
+b,PC0024,pattern,1,11,455,15,13,0.134685
+cfh,PC0025,pattern,1,2,84,62,47,0.052194
+ch,PC0026,pattern,1,11,471,9836,2603,0.136915
+ch$,PC0027,suffix,1,6,321,23,15,0.00033
+ckh,PC0028,pattern,1,5,277,833,215,0.091905
+cph,PC0029,pattern,1,9,416,189,99,0.193985
+cth,PC0030,pattern,1,2,133,854,212,0.052321
+d,PC0031,pattern,1,3,202,11468,2664,0.087933
+d$,PC0032,suffix,1,6,316,574,296,0.117242
+e,PC0033,pattern,1,5,274,8861,2182,0.153095
+e$,PC0034,suffix,1,5,264,58,31,0.172214
+ee,PC0035,pattern,1,4,246,3926,932,0.298508
+ee$,PC0036,suffix,1,5,272,21,10,0.000835
+eee,PC0037,pattern,1,4,260,348,171,0.249017
+f,PC0038,pattern,1,7,345,342,258,0.299108
+f$,PC0039,suffix,0,,,16,13,0.0
+g,PC0040,pattern,1,12,530,121,96,0.155679
+g$,PC0041,suffix,1,12,531,114,89,0.107274
+i,PC0042,pattern,1,4,208,2323,594,0.045027
+ii,PC0043,pattern,1,2,108,4068,662,0.084807
+iii,PC0044,pattern,1,2,101,170,67,0.035738
+k,PC0045,pattern,1,4,205,9053,1958,0.067248
+k$,PC0046,suffix,1,2,160,77,24,0.012188
+l,PC0047,pattern,1,1,72,9027,2414,0.232018
+l$,PC0048,suffix,1,1,74,5435,836,0.06386
+m,PC0049,pattern,1,12,535,932,361,0.270043
+m$,PC0050,suffix,1,12,537,907,336,0.071413
+n,PC0051,pattern,1,2,116,5814,945,0.093631
+n$,PC0052,suffix,1,2,114,5748,886,0.053456
+o,PC0053,pattern,1,1,5,19707,4624,0.076113
+o$,PC0054,suffix,1,11,454,1155,277,0.128938
+p,PC0055,pattern,1,6,310,1275,675,0.118627
+p$,PC0056,suffix,0,,,29,17,0.0
+q,PC0057,pattern,1,1,10,5346,855,0.348632
+r,PC0058,pattern,1,12,503,6339,1660,0.061147
+r$,PC0059,suffix,1,12,502,5188,1013,0.0271
+s,PC0060,pattern,1,1,67,2215,858,0.071465
+s$,PC0061,suffix,1,9,407,1124,409,0.204352
+sh,PC0062,pattern,1,3,173,4223,1168,0.06856
+sh$,PC0063,suffix,1,2,161,32,15,0.022156
+t,PC0064,pattern,1,2,125,5055,1354,0.098736
+t$,PC0065,suffix,1,11,444,62,22,0.229796
+x,PC0066,pattern,1,8,383,22,22,0.0346
+y,PC0067,pattern,1,3,174,15245,3262,0.045305
+y$,PC0068,suffix,1,3,175,14226,2743,0.070406
+{ch'},PC0069,pattern,0,,,25,24,0.0
+{ckhh},PC0070,pattern,1,2,154,22,14,0.121701
+{ck},PC0071,pattern,1,5,269,20,19,0.000917
+{cthh},PC0072,pattern,0,,,25,13,0.0
+{ct},PC0073,pattern,1,9,388,17,15,1e-06
+{ikh},PC0074,pattern,0,,,31,23,0.0
+{ith},PC0075,pattern,0,,,22,17,0.0
+interior:',PC0076,position,1,2,85,20,17,0.020369
+interior:a,PC0077,position,1,8,373,10667,2709,0.062539
+interior:cfh,PC0078,position,1,2,155,30,28,5.9e-05
+interior:ch,PC0079,position,1,12,529,4447,1777,0.081179
+interior:ckh,PC0080,position,1,3,164,658,168,0.304298
+interior:cph,PC0081,position,1,6,303,70,46,0.008876
+interior:cth,PC0082,position,1,2,145,389,135,0.036389
+interior:d,PC0083,position,1,3,199,7974,2017,0.276306
+interior:e,PC0084,position,1,5,275,8778,2132,0.342589
+interior:ee,PC0085,position,1,4,245,3877,902,0.244271
+interior:eee,PC0086,position,1,4,259,324,161,0.188525
+interior:f,PC0087,position,1,7,344,219,166,0.146392
+interior:i,PC0088,position,1,4,207,2318,590,0.047938
+interior:ii,PC0089,position,1,2,109,4062,656,0.108668
+interior:iii,PC0090,position,1,2,102,168,65,0.035582
+interior:k,PC0091,position,1,4,214,7797,1626,0.028464
+interior:l,PC0092,position,1,1,47,2749,1456,0.101613
+interior:m,PC0093,position,0,,,29,29,0.0
+interior:n,PC0094,position,1,12,516,66,59,0.015343
+interior:o,PC0095,position,1,1,4,12958,3593,0.129084
+interior:p,PC0096,position,1,6,309,722,374,0.157912
+interior:q,PC0097,position,0,,,33,32,0.0
+interior:r,PC0098,position,1,12,507,990,642,0.029001
+interior:s,PC0099,position,1,11,481,251,224,0.247614
+interior:sh,PC0100,position,1,6,295,1179,664,0.044325
+interior:t,PC0101,position,1,2,124,4049,998,0.025267
+interior:y,PC0102,position,1,6,333,404,362,0.20375
+interior:{ckhh},PC0103,position,0,,,17,11,0.0
+interior:{cthh},PC0104,position,0,,,18,9,0.0
+interior:{ikh},PC0105,position,0,,,29,21,0.0
+interior:{ith},PC0106,position,0,,,17,12,0.0
+prefix:a,PC0107,position,1,4,220,1800,263,0.24188
+prefix:ch,PC0108,position,1,5,271,5599,967,0.040724
+prefix:cth,PC0109,position,1,2,134,460,75,0.337871
+prefix:d,PC0110,position,1,11,497,3243,528,0.06961
+prefix:e,PC0111,position,1,5,282,45,38,0.036128
+prefix:eee,PC0112,position,0,,,22,8,0.0
+prefix:f,PC0113,position,1,11,494,107,79,0.001497
+prefix:k,PC0114,position,1,11,470,1199,327,0.125451
+prefix:l,PC0115,position,1,4,252,1243,352,0.191605
+prefix:o,PC0116,position,1,8,387,7024,1345,0.151566
+prefix:p,PC0117,position,1,6,307,528,288,0.125852
+prefix:r,PC0118,position,1,11,473,346,115,0.346136
+prefix:s,PC0119,position,1,1,60,881,262,0.253808
+prefix:sh,PC0120,position,1,3,171,3041,516,0.049379
+prefix:t,PC0121,position,1,2,118,956,346,0.060524
+prefix:y,PC0122,position,1,6,326,1473,504,0.218104
+suffix:a,PC0123,position,1,11,467,53,35,0.029159
+suffix:ch,PC0124,position,0,,,15,14,0.0
+suffix:d,PC0125,position,1,6,315,528,295,0.193679
+suffix:e,PC0126,position,1,5,265,56,30,0.003937
+suffix:f,PC0127,position,1,9,406,15,12,0.000112
+suffix:g,PC0128,position,1,12,532,102,88,0.011744
+suffix:k,PC0129,position,1,2,159,72,23,0.005893
+suffix:l,PC0130,position,1,1,73,5270,835,0.089717
+suffix:m,PC0131,position,1,12,536,901,335,0.061199
+suffix:n,PC0132,position,1,2,115,5745,885,0.049315
+suffix:o,PC0133,position,1,11,453,1009,276,0.180782
+suffix:p,PC0134,position,0,,,27,16,0.0
+suffix:r,PC0135,position,1,12,501,5049,1012,0.098206
+suffix:s,PC0136,position,1,9,408,814,408,0.048449
+suffix:t,PC0137,position,1,11,445,55,21,0.000927
+suffix:y,PC0138,position,1,3,176,13969,2742,0.043642
+ad,PC0139,pattern,0,,,36,33,0.0
+ag,PC0140,pattern,0,,,18,14,0.0
+ai,PC0141,pattern,1,4,206,2271,554,0.002391
+aii,PC0142,pattern,1,2,107,3853,573,0.03108
+aiii,PC0143,pattern,1,8,382,126,46,0.014024
+ak,PC0144,pattern,0,,,34,29,0.0
+al,PC0145,pattern,1,12,520,2598,803,0.104056
+am,PC0146,pattern,1,12,533,703,233,0.018374
+an,PC0147,pattern,1,11,450,107,52,0.37735
+ar,PC0148,pattern,1,12,514,2823,715,0.043632
+as,PC0149,pattern,1,12,512,67,46,5.3e-05
+cfhy,PC0150,pattern,0,,,21,13,0.0
+cha,PC0151,pattern,1,11,448,458,176,0.395123
+chckh,PC0152,pattern,1,3,162,232,32,0.046339
+chcph,PC0153,pattern,0,,,24,9,0.0
+chcth,PC0154,pattern,0,,,130,28,0.0
+chd,PC0155,pattern,1,7,350,740,219,0.468753
+che,PC0156,pattern,1,5,280,3960,888,0.016725
+chee,PC0157,pattern,1,11,458,690,202,0.031457
+cheee,PC0158,pattern,0,,,23,15,0.0
+chk,PC0159,pattern,1,4,203,150,49,0.048315
+chl,PC0160,pattern,0,,,54,21,0.0
+cho,PC0161,pattern,1,11,447,2408,666,0.614178
+chp,PC0162,pattern,0,,,27,23,0.0
+chr,PC0163,pattern,0,,,15,8,0.0
+chs,PC0164,pattern,1,11,479,76,54,0.007664
+cht,PC0165,pattern,0,,,73,40,0.0
+chy,PC0166,pattern,1,6,335,905,257,0.289009
+ckha,PC0167,pattern,0,,,33,18,0.0
+ckhd,PC0168,pattern,0,,,32,12,0.0
+ckhe,PC0169,pattern,1,5,276,220,66,0.015375
+ckhee,PC0170,pattern,0,,,18,7,0.0
+ckho,PC0171,pattern,1,9,419,91,45,0.07718
+ckhy,PC0172,pattern,1,3,166,430,59,0.046503
+cpha,PC0173,pattern,0,,,20,11,0.0
+cphe,PC0174,pattern,0,,,61,29,0.0
+cpho,PC0175,pattern,0,,,50,28,0.0
+cphy,PC0176,pattern,0,,,42,17,0.0
+ctha,PC0177,pattern,1,12,540,64,24,0.060691
+cthd,PC0178,pattern,0,,,27,14,0.0
+cthe,PC0179,pattern,1,9,413,162,50,0.046795
+cthee,PC0180,pattern,0,,,19,6,0.0
+ctho,PC0181,pattern,1,2,136,217,65,0.22623
+cthy,PC0182,pattern,1,2,131,351,42,0.085817
+da,PC0183,pattern,1,11,463,3677,899,0.029407
+dch,PC0184,pattern,1,11,485,301,128,0.00063
+dd,PC0185,pattern,0,,,20,18,0.0
+de,PC0186,pattern,0,,,34,32,0.0
+dee,PC0187,pattern,0,,,54,42,0.0
+deee,PC0188,pattern,0,,,15,13,0.0
+dk,PC0189,pattern,0,,,27,25,0.0
+dl,PC0190,pattern,1,11,487,69,44,0.051072
+do,PC0191,pattern,1,1,79,446,184,0.100964
+ds,PC0192,pattern,0,,,17,15,0.0
+dsh,PC0193,pattern,1,11,488,156,58,4.3e-05
+dy,PC0194,pattern,1,3,201,6388,1081,0.178413
+ea,PC0195,pattern,1,5,292,327,146,0.256375
+ech,PC0196,pattern,1,5,289,112,68,0.075948
+eckh,PC0197,pattern,1,3,181,130,28,0.006634
+ecth,PC0198,pattern,1,3,169,64,15,0.001035
+ed,PC0199,pattern,1,3,196,3441,550,0.775905
+eea,PC0200,pattern,1,4,225,79,56,0.061566
+eech,PC0201,pattern,0,,,29,18,0.0
+eed,PC0202,pattern,1,4,234,1308,212,0.50411
+eeed,PC0203,pattern,1,4,262,74,37,0.000438
+eeeo,PC0204,pattern,0,,,32,30,0.0
+eees,PC0205,pattern,1,9,404,45,25,0.010624
+eeey,PC0206,pattern,1,4,256,169,52,0.07339
+eek,PC0207,pattern,1,5,286,82,34,0.002804
+eeo,PC0208,pattern,1,10,424,578,238,0.316008
+ees,PC0209,pattern,1,11,491,149,75,0.042863
+eet,PC0210,pattern,0,,,32,16,0.0
+eey,PC0211,pattern,1,4,247,1595,223,0.059446
+ef,PC0212,pattern,1,7,354,34,30,0.001148
+ek,PC0213,pattern,1,7,355,314,130,0.162764
+eo,PC0214,pattern,1,10,434,2264,724,0.430488
+ep,PC0215,pattern,1,4,261,60,42,0.000338
+es,PC0216,pattern,1,11,490,117,72,0.008207
+esh,PC0217,pattern,0,,,37,35,0.0
+et,PC0218,pattern,1,5,267,132,77,0.02314
+ey,PC0219,pattern,1,5,285,1987,389,0.079461
+fa,PC0220,pattern,1,8,362,57,45,0.013639
+fch,PC0221,pattern,1,7,347,172,111,0.003593
+fo,PC0222,pattern,0,,,54,49,0.0
+fsh,PC0223,pattern,0,,,16,15,0.0
+fy,PC0224,pattern,0,,,23,21,0.0
+iiin,PC0225,pattern,1,2,104,157,54,0.014346
+iin,PC0226,pattern,1,2,110,3863,533,0.013475
+iir,PC0227,pattern,1,12,505,132,65,0.033924
+il,PC0228,pattern,0,,,32,25,0.0
+in,PC0229,pattern,1,4,211,1674,295,0.206899
+ir,PC0230,pattern,1,12,509,512,184,0.269631
+is,PC0231,pattern,0,,,17,17,0.0
+ka,PC0232,pattern,1,1,34,2870,446,0.290733
+kch,PC0233,pattern,1,12,527,966,285,0.299279
+ke,PC0234,pattern,1,3,187,1562,374,0.062683
+kee,PC0235,pattern,1,4,241,1860,309,0.081026
+keee,PC0236,pattern,1,4,258,162,56,0.050288
+kl,PC0237,pattern,0,,,32,17,0.0
+ko,PC0238,pattern,1,1,76,653,231,0.377135
+ksh,PC0239,pattern,1,11,472,202,98,0.154151
+ky,PC0240,pattern,1,1,23,683,136,0.07535
+la,PC0241,pattern,1,8,370,323,148,0.167556
+lch,PC0242,pattern,1,1,71,707,272,0.161048
+ld,PC0243,pattern,1,1,25,414,213,0.597932
+lee,PC0244,pattern,0,,,20,16,0.0
+lf,PC0245,pattern,0,,,36,30,0.0
+lk,PC0246,pattern,1,4,231,1014,347,0.457035
+ll,PC0247,pattern,0,,,25,21,0.0
+lo,PC0248,pattern,1,1,50,492,258,0.107597
+lp,PC0249,pattern,0,,,41,32,0.0
+lr,PC0250,pattern,0,,,26,14,0.0
+ls,PC0251,pattern,1,1,68,128,77,0.055455
+lsh,PC0252,pattern,1,1,41,290,146,0.124426
+lt,PC0253,pattern,0,,,95,69,0.0
+ly,PC0254,pattern,1,1,29,382,162,0.097603
+no,PC0255,pattern,0,,,23,21,0.0
+oa,PC0256,pattern,1,8,380,229,113,0.284419
+och,PC0257,pattern,1,11,452,138,96,0.080666
+ockh,PC0258,pattern,1,10,443,171,61,0.54422
+ocph,PC0259,pattern,0,,,33,27,0.0
+octh,PC0260,pattern,1,2,141,131,63,0.259882
+od,PC0261,pattern,1,9,393,1981,736,0.607904
+oe,PC0262,pattern,1,10,431,126,106,0.353865
+oee,PC0263,pattern,1,10,423,145,72,0.296134
+oeee,PC0264,pattern,0,,,45,26,0.0
+of,PC0265,pattern,1,7,343,127,87,0.000115
+og,PC0266,pattern,0,,,19,14,0.0
+oi,PC0267,pattern,0,,,38,26,0.0
+oii,PC0268,pattern,1,2,140,186,61,0.051459
+oiii,PC0269,pattern,0,,,40,17,0.0
+ok,PC0270,pattern,1,4,213,5544,751,0.043642
+ol,PC0271,pattern,1,1,62,5042,1242,0.217427
+om,PC0272,pattern,1,12,539,162,81,0.13829
+oo,PC0273,pattern,1,1,6,66,49,0.019596
+op,PC0274,pattern,1,6,308,513,217,0.01582
+oq,PC0275,pattern,0,,,18,17,0.0
+or,PC0276,pattern,1,2,93,2448,606,0.06225
+os,PC0277,pattern,1,10,437,363,171,0.174059
+osh,PC0278,pattern,0,,,56,46,0.0
+ot,PC0279,pattern,1,2,123,3205,601,0.112797
+oy,PC0280,pattern,1,2,153,109,72,0.044572
+o{ikh},PC0281,pattern,0,,,15,10,0.0
+pa,PC0282,pattern,1,8,376,160,98,0.089111
+pch,PC0283,pattern,1,6,312,696,291,0.022688
+pd,PC0284,pattern,0,,,29,24,0.0
+po,PC0285,pattern,1,1,18,222,147,0.015516
+psh,PC0286,pattern,0,,,72,56,0.0
+py,PC0287,pattern,1,2,122,65,40,0.000465
+qe,PC0288,pattern,0,,,43,36,0.0
+qk,PC0289,pattern,0,,,17,16,0.0
+qo,PC0290,pattern,1,1,9,5218,752,0.008018
+ra,PC0291,pattern,1,4,229,559,253,0.196754
+rch,PC0292,pattern,1,11,478,118,86,0.052481
+rd,PC0293,pattern,1,7,341,34,31,0.002497
+ro,PC0294,pattern,1,1,64,317,204,0.094247
+rsh,PC0295,pattern,0,,,45,35,0.0
+ry,PC0296,pattern,1,11,499,205,102,0.008946
+sa,PC0297,pattern,1,1,69,512,140,0.117453
+sch,PC0298,pattern,1,11,477,63,42,0.051839
+sd,PC0299,pattern,0,,,17,15,0.0
+se,PC0300,pattern,0,,,30,26,0.0
+sha,PC0301,pattern,1,4,217,136,50,0.078389
+shckh,PC0302,pattern,1,3,168,93,19,0.010576
+shcth,PC0303,pattern,0,,,45,10,0.0
+shd,PC0304,pattern,1,7,352,169,80,0.207938
+she,PC0305,pattern,1,3,184,1976,427,0.025113
+shee,PC0306,pattern,1,4,243,475,117,0.061473
+shk,PC0307,pattern,0,,,47,22,0.0
+sho,PC0308,pattern,1,2,157,936,282,0.519778
+sht,PC0309,pattern,0,,,18,11,0.0
+shy,PC0310,pattern,1,2,132,258,107,0.305277
+sk,PC0311,pattern,0,,,16,12,0.0
+so,PC0312,pattern,1,1,59,334,140,0.012943
+ssh,PC0313,pattern,0,,,30,18,0.0
+sy,PC0314,pattern,1,11,475,95,59,0.009314
+ta,PC0315,pattern,1,8,385,1436,287,0.260494
+tch,PC0316,pattern,1,2,126,912,278,0.113454
+td,PC0317,pattern,0,,,16,14,0.0
+te,PC0318,pattern,1,3,192,796,208,0.024382
+tee,PC0319,pattern,1,4,250,590,114,0.090642
+teee,PC0320,pattern,1,6,305,41,23,0.000236
+to,PC0321,pattern,1,2,91,602,224,0.187446
+tsh,PC0322,pattern,1,2,120,165,91,0.080482
+ty,PC0323,pattern,1,2,147,434,93,0.09736
+ya,PC0324,pattern,0,,,16,10,0.0
+ych,PC0325,pattern,1,6,317,228,98,0.044093
+yd,PC0326,pattern,1,6,334,151,100,0.498983
+yf,PC0327,pattern,0,,,22,18,0.0
+yk,PC0328,pattern,1,6,338,620,231,0.066771
+yl,PC0329,pattern,0,,,26,25,0.0
+yo,PC0330,pattern,0,,,38,32,0.0
+yp,PC0331,pattern,1,6,325,77,46,0.003246
+yr,PC0332,pattern,0,,,17,16,0.0
+ys,PC0333,pattern,0,,,25,21,0.0
+ysh,PC0334,pattern,1,6,302,91,49,0.011126
+yt,PC0335,pattern,1,6,328,528,183,0.058555
+{ckhh}y,PC0336,pattern,0,,,17,9,0.0
+{cthh}y,PC0337,pattern,0,,,22,10,0.0
+{ikh}y,PC0338,pattern,0,,,21,13,0.0
+{ith}y,PC0339,pattern,0,,,15,10,0.0
+interior:ad,PC0340,position,0,,,26,23,0.0
+interior:ai,PC0341,position,1,4,209,2057,528,0.031414
+interior:aii,PC0342,position,1,2,105,3341,542,0.02348
+interior:aiii,PC0343,position,1,2,100,76,40,0.00188
+interior:ak,PC0344,position,0,,,19,18,0.0
+interior:al,PC0345,position,1,8,366,625,409,0.126741
+interior:ar,PC0346,position,1,12,515,325,236,0.002681
+interior:cha,PC0347,position,1,12,524,187,131,0.202844
+interior:chd,PC0348,position,1,7,349,454,167,0.018728
+interior:che,PC0349,position,1,11,493,1810,606,0.030539
+interior:chee,PC0350,position,1,11,461,264,145,0.129041
+interior:cho,PC0351,position,1,6,322,770,353,0.133566
+interior:chs,PC0352,position,0,,,26,25,0.0
+interior:chy,PC0353,position,0,,,21,20,0.0
+interior:ckha,PC0354,position,0,,,19,12,0.0
+interior:ckhd,PC0355,position,0,,,22,8,0.0
+interior:ckhe,PC0356,position,0,,,167,53,0.0
+interior:ckho,PC0357,position,0,,,39,26,0.0
+interior:cphe,PC0358,position,0,,,21,14,0.0
+interior:ctha,PC0359,position,0,,,16,14,0.0
+interior:cthd,PC0360,position,0,,,17,10,0.0
+interior:cthe,PC0361,position,0,,,66,36,0.0
+interior:ctho,PC0362,position,1,2,87,34,27,0.003218
+interior:da,PC0363,position,1,9,403,1563,710,0.150921
+interior:dch,PC0364,position,0,,,49,46,0.0
+interior:de,PC0365,position,0,,,20,19,0.0
+interior:dee,PC0366,position,0,,,36,32,0.0
+interior:do,PC0367,position,1,1,82,124,88,0.004241
+interior:dsh,PC0368,position,0,,,19,19,0.0
+interior:dy,PC0369,position,1,6,340,63,62,2.7e-05
+interior:ea,PC0370,position,1,5,293,322,141,0.303852
+interior:ech,PC0371,position,1,5,290,110,66,0.065297
+interior:eckh,PC0372,position,1,3,182,129,27,0.020505
+interior:ed,PC0373,position,1,3,197,3324,496,0.055947
+interior:eea,PC0374,position,1,4,226,73,51,0.020101
+interior:eed,PC0375,position,1,4,233,1242,186,0.088184
+interior:eeed,PC0376,position,0,,,60,28,0.0
+interior:eeeo,PC0377,position,0,,,22,20,0.0
+interior:eek,PC0378,position,1,5,287,76,31,0.001111
+interior:eeo,PC0379,position,1,10,425,444,201,0.159556
+interior:ees,PC0380,position,0,,,20,20,0.0
+interior:eet,PC0381,position,0,,,27,14,0.0
+interior:eey,PC0382,position,0,,,21,21,0.0
+interior:ef,PC0383,position,0,,,27,23,0.0
+interior:ek,PC0384,position,1,7,356,291,119,0.203916
+interior:eo,PC0385,position,1,10,436,2013,666,0.069099
+interior:ep,PC0386,position,0,,,48,35,0.0
+interior:es,PC0387,position,0,,,31,28,0.0
+interior:esh,PC0388,position,0,,,35,33,0.0
+interior:et,PC0389,position,1,5,266,109,62,0.002964
+interior:ey,PC0390,position,0,,,38,36,0.0
+interior:fa,PC0391,position,1,8,361,46,36,0.000593
+interior:fch,PC0392,position,1,7,346,111,72,0.000127
+interior:fo,PC0393,position,0,,,31,29,0.0
+interior:iin,PC0394,position,0,,,37,31,0.0
+interior:in,PC0395,position,0,,,24,23,0.0
+interior:ir,PC0396,position,1,12,508,98,79,0.007114
+interior:ka,PC0397,position,1,1,33,2585,393,0.061828
+interior:kch,PC0398,position,1,12,526,718,213,0.067457
+interior:ke,PC0399,position,1,3,188,1390,326,0.057759
+interior:kee,PC0400,position,1,4,240,1659,270,0.033181
+interior:keee,PC0401,position,1,4,255,138,47,0.012833
+interior:ko,PC0402,position,1,1,75,471,150,0.146706
+interior:ksh,PC0403,position,1,6,339,128,66,0.012046
+interior:ky,PC0404,position,0,,,17,16,0.0
+interior:la,PC0405,position,1,8,369,278,135,0.152308
+interior:lch,PC0406,position,1,1,51,391,211,0.005527
+interior:ld,PC0407,position,1,1,26,333,173,0.164023
+interior:lee,PC0408,position,0,,,18,14,0.0
+interior:lf,PC0409,position,0,,,26,22,0.0
+interior:lk,PC0410,position,1,1,43,596,248,0.13983
+interior:lo,PC0411,position,1,1,49,288,182,0.034075
+interior:lp,PC0412,position,0,,,22,18,0.0
+interior:ls,PC0413,position,0,,,22,22,0.0
+interior:lsh,PC0414,position,1,1,52,176,109,0.048923
+interior:lt,PC0415,position,1,1,53,61,49,3.6e-05
+interior:no,PC0416,position,0,,,18,17,0.0
+interior:oa,PC0417,position,1,8,379,165,97,0.008033
+interior:och,PC0418,position,0,,,82,67,0.0
+interior:ockh,PC0419,position,1,10,442,139,52,0.036815
+interior:ocph,PC0420,position,0,,,25,20,0.0
+interior:octh,PC0421,position,1,2,142,96,45,0.011539
+interior:od,PC0422,position,1,9,392,1582,596,0.166384
+interior:oe,PC0423,position,1,10,432,94,76,0.005538
+interior:oee,PC0424,position,1,10,422,98,52,0.000577
+interior:oeee,PC0425,position,0,,,25,14,0.0
+interior:of,PC0426,position,0,,,57,43,0.0
+interior:oi,PC0427,position,0,,,24,20,0.0
+interior:oii,PC0428,position,1,2,139,148,57,0.023743
+interior:oiii,PC0429,position,0,,,26,15,0.0
+interior:ok,PC0430,position,1,1,38,3483,466,0.066201
+interior:ol,PC0431,position,1,1,54,891,640,0.029121
+interior:oo,PC0432,position,1,1,7,57,41,0.017593
+interior:op,PC0433,position,1,1,1,196,86,0.083262
+interior:or,PC0434,position,1,1,22,255,199,0.096267
+interior:os,PC0435,position,0,,,46,41,0.0
+interior:osh,PC0436,position,0,,,34,29,0.0
+interior:ot,PC0437,position,1,2,94,1331,299,0.048067
+interior:pa,PC0438,position,1,8,375,120,74,0.007616
+interior:pch,PC0439,position,1,6,311,455,196,0.07428
+interior:po,PC0440,position,0,,,53,38,0.0
+interior:psh,PC0441,position,0,,,27,23,0.0
+interior:qo,PC0442,position,0,,,27,26,0.0
+interior:ra,PC0443,position,1,4,230,402,228,0.079103
+interior:rch,PC0444,position,0,,,68,61,0.0
+interior:rd,PC0445,position,1,7,342,29,26,0.004004
+interior:ro,PC0446,position,1,1,63,210,150,0.084187
+interior:rsh,PC0447,position,0,,,28,26,0.0
+interior:sa,PC0448,position,1,12,518,83,67,6.3e-05
+interior:se,PC0449,position,0,,,24,21,0.0
+interior:sha,PC0450,position,0,,,29,28,0.0
+interior:shd,PC0451,position,0,,,76,51,0.0
+interior:she,PC0452,position,1,6,294,569,257,0.034731
+interior:shee,PC0453,position,0,,,110,62,0.0
+interior:sho,PC0454,position,1,2,88,142,103,0.00093
+interior:so,PC0455,position,0,,,25,25,0.0
+interior:ta,PC0456,position,1,8,384,1244,232,0.032324
+interior:tch,PC0457,position,1,2,127,653,198,0.321642
+interior:te,PC0458,position,1,3,193,670,167,0.026439
+interior:tee,PC0459,position,1,4,249,527,91,0.012191
+interior:teee,PC0460,position,0,,,35,20,0.0
+interior:to,PC0461,position,1,2,90,390,128,0.351542
+interior:tsh,PC0462,position,1,2,119,81,46,0.002008
+interior:ty,PC0463,position,0,,,31,26,0.0
+interior:ych,PC0464,position,0,,,20,19,0.0
+interior:yd,PC0465,position,0,,,70,57,0.0
+interior:yk,PC0466,position,0,,,103,90,0.0
+interior:yt,PC0467,position,0,,,72,62,0.0
+prefix:ai,PC0468,position,1,4,218,211,24,0.013776
+prefix:aii,PC0469,position,1,8,381,512,31,0.008586
+prefix:aiii,PC0470,position,0,,,49,5,0.0
+prefix:ak,PC0471,position,0,,,15,11,0.0
+prefix:al,PC0472,position,1,4,221,197,87,0.004461
+prefix:ar,PC0473,position,0,,,126,50,0.0
+prefix:cha,PC0474,position,1,11,449,268,43,0.019617
+prefix:chckh,PC0475,position,1,3,163,220,23,0.053564
+prefix:chcph,PC0476,position,0,,,23,8,0.0
+prefix:chcth,PC0477,position,0,,,120,19,0.0
+prefix:chd,PC0478,position,1,7,351,246,30,0.077522
+prefix:che,PC0479,position,1,5,273,2169,298,0.042076
+prefix:chee,PC0480,position,1,11,457,422,54,0.097552
+prefix:cheee,PC0481,position,0,,,16,9,0.0
+prefix:chk,PC0482,position,1,4,204,137,38,0.054847
+prefix:cho,PC0483,position,1,11,446,1480,291,0.162617
+prefix:chp,PC0484,position,0,,,24,20,0.0
+prefix:chs,PC0485,position,0,,,18,11,0.0
+prefix:cht,PC0486,position,0,,,63,30,0.0
+prefix:chy,PC0487,position,0,,,30,22,0.0
+prefix:ckhe,PC0488,position,1,9,414,53,13,0.001475
+prefix:ckho,PC0489,position,1,9,418,47,15,0.000978
+prefix:cpha,PC0490,position,0,,,16,7,0.0
+prefix:cphe,PC0491,position,0,,,40,15,0.0
+prefix:cpho,PC0492,position,0,,,41,20,0.0
+prefix:ctha,PC0493,position,1,12,541,48,10,0.017428
+prefix:cthe,PC0494,position,1,9,412,95,13,0.008763
+prefix:cthee,PC0495,position,0,,,18,5,0.0
+prefix:ctho,PC0496,position,1,2,137,160,35,0.010655
+prefix:da,PC0497,position,1,11,498,2113,196,0.032866
+prefix:dch,PC0498,position,1,11,486,252,82,0.023801
+prefix:dee,PC0499,position,0,,,18,10,0.0
+prefix:dk,PC0500,position,0,,,17,15,0.0
+prefix:dl,PC0501,position,0,,,17,14,0.0
+prefix:do,PC0502,position,1,1,80,297,85,0.021075
+prefix:dsh,PC0503,position,0,,,136,38,0.0
+prefix:dy,PC0504,position,1,6,331,57,41,0.00032
+prefix:et,PC0505,position,0,,,15,9,0.0
+prefix:fch,PC0506,position,0,,,61,39,0.0
+prefix:fo,PC0507,position,0,,,21,18,0.0
+prefix:ka,PC0508,position,1,8,358,283,51,0.164111
+prefix:kch,PC0509,position,1,11,484,245,69,0.004577
+prefix:ke,PC0510,position,1,5,279,172,48,0.009702
+prefix:kee,PC0511,position,1,5,291,200,38,0.022587
+prefix:keee,PC0512,position,0,,,23,8,0.0
+prefix:ko,PC0513,position,1,1,81,156,68,0.003217
+prefix:ksh,PC0514,position,0,,,70,28,0.0
+prefix:la,PC0515,position,0,,,44,12,0.0
+prefix:lch,PC0516,position,1,4,244,315,60,0.03172
+prefix:ld,PC0517,position,0,,,45,13,0.0
+prefix:lk,PC0518,position,1,4,254,416,97,0.198617
+prefix:lo,PC0519,position,0,,,160,59,0.0
+prefix:lp,PC0520,position,0,,,17,12,0.0
+prefix:lsh,PC0521,position,0,,,114,37,0.0
+prefix:lt,PC0522,position,0,,,33,19,0.0
+prefix:oa,PC0523,position,1,8,378,64,16,9e-06
+prefix:och,PC0524,position,1,11,465,56,29,4.7e-05
+prefix:ockh,PC0525,position,0,,,31,8,0.0
+prefix:octh,PC0526,position,0,,,34,17,0.0
+prefix:od,PC0527,position,1,9,401,214,44,0.003572
+prefix:oe,PC0528,position,0,,,30,28,0.0
+prefix:oee,PC0529,position,0,,,45,18,0.0
+prefix:oeee,PC0530,position,0,,,20,12,0.0
+prefix:of,PC0531,position,0,,,62,38,0.0
+prefix:oii,PC0532,position,0,,,38,4,0.0
+prefix:ok,PC0533,position,1,4,215,2034,284,0.035413
+prefix:ol,PC0534,position,1,1,55,968,254,0.026028
+prefix:op,PC0535,position,1,6,314,305,125,0.029286
+prefix:or,PC0536,position,1,1,17,175,68,0.010535
+prefix:os,PC0537,position,0,,,16,8,0.0
+prefix:osh,PC0538,position,0,,,20,15,0.0
+prefix:ot,PC0539,position,1,6,304,1843,300,0.072737
+prefix:pa,PC0540,position,0,,,39,23,0.0
+prefix:pch,PC0541,position,1,4,263,241,95,0.003828
+prefix:pd,PC0542,position,0,,,16,13,0.0
+prefix:po,PC0543,position,1,1,19,167,107,0.011297
+prefix:psh,PC0544,position,0,,,45,33,0.0
+prefix:qe,PC0545,position,0,,,42,35,0.0
+prefix:qo,PC0546,position,1,1,8,5141,724,0.006079
+prefix:ra,PC0547,position,1,4,227,166,29,0.020051
+prefix:rch,PC0548,position,0,,,49,24,0.0
+prefix:ro,PC0549,position,0,,,82,40,0.0
+prefix:rsh,PC0550,position,0,,,17,9,0.0
+prefix:sa,PC0551,position,1,1,70,427,73,0.132795
+prefix:sch,PC0552,position,1,11,476,53,32,1.2e-05
+prefix:sha,PC0553,position,1,4,216,104,21,0.048586
+prefix:shckh,PC0554,position,1,3,167,90,16,0.031408
+prefix:shcth,PC0555,position,0,,,42,7,0.0
+prefix:shd,PC0556,position,1,7,353,75,19,0.00398
+prefix:she,PC0557,position,1,3,183,1379,165,0.148894
+prefix:shee,PC0558,position,1,4,242,351,51,0.031074
+prefix:shk,PC0559,position,0,,,46,21,0.0
+prefix:sho,PC0560,position,1,2,156,622,153,0.078276
+prefix:sht,PC0561,position,0,,,17,10,0.0
+prefix:so,PC0562,position,1,1,58,296,108,0.040356
+prefix:ssh,PC0563,position,0,,,25,13,0.0
+prefix:ta,PC0564,position,1,8,360,187,51,0.003084
+prefix:tch,PC0565,position,1,6,319,257,79,0.003289
+prefix:te,PC0566,position,1,3,191,126,41,0.000997
+prefix:tee,PC0567,position,0,,,64,24,0.0
+prefix:to,PC0568,position,1,2,99,193,87,0.059836
+prefix:tsh,PC0569,position,1,2,121,82,43,0.001006
+prefix:ych,PC0570,position,1,6,318,208,79,0.044584
+prefix:yd,PC0571,position,0,,,54,20,0.0
+prefix:yf,PC0572,position,0,,,16,12,0.0
+prefix:yk,PC0573,position,1,6,337,510,141,0.025133
+prefix:yo,PC0574,position,0,,,25,19,0.0
+prefix:yp,PC0575,position,1,6,324,65,34,0.00186
+prefix:ysh,PC0576,position,1,6,301,80,39,0.02733
+prefix:yt,PC0577,position,1,6,329,454,119,0.052992
+suffix:ag,PC0578,position,0,,,15,11,0.0
+suffix:al,PC0579,position,1,12,519,1598,331,0.079271
+suffix:am,PC0580,position,1,12,534,611,213,0.029523
+suffix:an,PC0581,position,1,11,451,100,48,0.042166
+suffix:ar,PC0582,position,1,12,513,2074,451,0.068376
+suffix:as,PC0583,position,0,,,42,31,0.0
+suffix:chd,PC0584,position,0,,,36,22,0.0
+suffix:cho,PC0585,position,1,11,483,106,36,0.030146
+suffix:chs,PC0586,position,0,,,19,18,0.0
+suffix:chy,PC0587,position,1,6,336,714,219,0.01351
+suffix:ckhy,PC0588,position,1,3,165,392,55,0.129952
+suffix:cphy,PC0589,position,0,,,30,15,0.0
+suffix:cthy,PC0590,position,1,2,144,243,37,0.188246
+suffix:dl,PC0591,position,0,,,25,20,0.0
+suffix:dy,PC0592,position,1,3,200,6049,997,0.146112
+suffix:ed,PC0593,position,0,,,118,55,0.0
+suffix:eed,PC0594,position,0,,,61,24,0.0
+suffix:eees,PC0595,position,1,9,405,33,20,0.004764
+suffix:eeey,PC0596,position,1,4,257,162,47,0.07496
+suffix:eeo,PC0597,position,1,11,456,127,30,0.087743
+suffix:ees,PC0598,position,1,11,492,127,53,0.022506
+suffix:eey,PC0599,position,1,4,248,1568,200,0.058425
+suffix:ek,PC0600,position,0,,,17,5,0.0
+suffix:eo,PC0601,position,1,11,459,247,54,0.169126
+suffix:es,PC0602,position,1,11,489,83,42,0.02999
+suffix:ey,PC0603,position,1,5,284,1948,352,0.043444
+suffix:fy,PC0604,position,0,,,17,15,0.0
+suffix:iiin,PC0605,position,1,2,103,154,51,0.014537
+suffix:iin,PC0606,position,1,2,111,3825,501,0.01151
+suffix:iir,PC0607,position,1,12,504,117,51,0.015642
+suffix:il,PC0608,position,0,,,22,16,0.0
+suffix:im,PC0609,position,0,,,36,23,0.0
+suffix:in,PC0610,position,1,4,212,1650,272,0.083942
+suffix:ir,PC0611,position,1,12,510,414,105,0.019443
+suffix:kl,PC0612,position,0,,,20,6,0.0
+suffix:ko,PC0613,position,0,,,22,12,0.0
+suffix:ky,PC0614,position,1,1,24,633,116,0.06618
+suffix:ld,PC0615,position,0,,,32,26,0.0
+suffix:lo,PC0616,position,0,,,27,19,0.0
+suffix:ls,PC0617,position,0,,,90,50,0.0
+suffix:ly,PC0618,position,1,1,28,360,151,0.060232
+suffix:od,PC0619,position,1,9,400,179,96,0.001024
+suffix:og,PC0620,position,0,,,16,12,0.0
+suffix:ok,PC0621,position,0,,,27,7,0.0
+suffix:ol,PC0622,position,1,1,78,2744,404,0.157601
+suffix:om,PC0623,position,1,12,538,138,76,0.165705
+suffix:or,PC0624,position,1,2,92,1679,357,0.220983
+suffix:os,PC0625,position,1,10,438,279,123,0.187865
+suffix:ot,PC0626,position,0,,,25,7,0.0
+suffix:oy,PC0627,position,1,2,152,78,46,0.001092
+suffix:py,PC0628,position,0,,,38,19,0.0
+suffix:ro,PC0629,position,0,,,20,15,0.0
+suffix:ry,PC0630,position,1,11,500,183,90,0.002998
+suffix:sho,PC0631,position,0,,,55,26,0.0
+suffix:shy,PC0632,position,1,6,332,152,95,0.007856
+suffix:sy,PC0633,position,0,,,52,50,0.0
+suffix:to,PC0634,position,0,,,18,9,0.0
+suffix:ty,PC0635,position,1,2,148,378,62,0.006614
+suffix:yd,PC0636,position,0,,,25,23,0.0
+suffix:{ikh}y,PC0637,position,0,,,20,12,0.0
+prefix:air,PC0638,position,0,,,17,11,0.0
+prefix:ala,PC0639,position,0,,,28,9,0.0
+prefix:alch,PC0640,position,0,,,24,13,0.0
+prefix:ald,PC0641,position,0,,,20,7,0.0
+prefix:alk,PC0642,position,0,,,35,17,0.0
+prefix:alo,PC0643,position,0,,,42,21,0.0
+prefix:ara,PC0644,position,0,,,54,18,0.0
+prefix:aro,PC0645,position,0,,,41,19,0.0
+prefix:chai,PC0646,position,0,,,23,5,0.0
+prefix:chal,PC0647,position,0,,,21,15,0.0
+prefix:chckhe,PC0648,position,0,,,45,5,0.0
+prefix:chda,PC0649,position,0,,,81,13,0.0
+prefix:chdo,PC0650,position,0,,,15,6,0.0
+prefix:chea,PC0651,position,0,,,106,20,0.0
+prefix:checkh,PC0652,position,0,,,67,8,0.0
+prefix:checth,PC0653,position,0,,,38,6,0.0
+prefix:ched,PC0654,position,1,3,198,648,40,0.00288
+prefix:cheed,PC0655,position,0,,,71,6,0.0
+prefix:cheek,PC0656,position,0,,,35,8,0.0
+prefix:cheeo,PC0657,position,0,,,54,14,0.0
+prefix:chek,PC0658,position,1,7,357,139,30,0.035225
+prefix:cheo,PC0659,position,1,10,435,570,106,0.001211
+prefix:chep,PC0660,position,0,,,26,15,0.0
+prefix:chet,PC0661,position,1,5,268,60,23,1e-06
+prefix:chka,PC0662,position,0,,,60,11,0.0
+prefix:chkch,PC0663,position,0,,,15,8,0.0
+prefix:chke,PC0664,position,0,,,15,5,0.0
+prefix:chkee,PC0665,position,0,,,17,4,0.0
+prefix:chockh,PC0666,position,0,,,30,8,0.0
+prefix:chocth,PC0667,position,0,,,25,5,0.0
+prefix:chod,PC0668,position,1,9,411,183,24,0.001833
+prefix:chok,PC0669,position,1,11,482,180,53,0.089535
+prefix:chol,PC0670,position,1,12,517,111,57,0.000216
+prefix:chop,PC0671,position,0,,,19,14,0.0
+prefix:chor,PC0672,position,0,,,40,21,0.0
+prefix:chot,PC0673,position,1,2,158,132,38,0.029915
+prefix:chta,PC0674,position,0,,,20,8,0.0
+prefix:ckheo,PC0675,position,0,,,16,6,0.0
+prefix:ctheo,PC0676,position,0,,,25,7,0.0
+prefix:cthod,PC0677,position,0,,,23,9,0.0
+prefix:dai,PC0678,position,1,11,468,365,43,0.088604
+prefix:daii,PC0679,position,1,2,146,875,30,0.026001
+prefix:daiii,PC0680,position,0,,,23,4,0.0
+prefix:dal,PC0681,position,1,12,521,155,57,0.00269
+prefix:dar,PC0682,position,0,,,69,38,0.0
+prefix:dche,PC0683,position,0,,,87,28,0.0
+prefix:dchee,PC0684,position,0,,,24,11,0.0
+prefix:dcho,PC0685,position,0,,,68,17,0.0
+prefix:doii,PC0686,position,0,,,17,2,0.0
+prefix:dol,PC0687,position,0,,,45,37,0.0
+prefix:dor,PC0688,position,0,,,17,13,0.0
+prefix:dshe,PC0689,position,0,,,67,14,0.0
+prefix:dshee,PC0690,position,0,,,19,7,0.0
+prefix:dsho,PC0691,position,0,,,26,10,0.0
+prefix:dyk,PC0692,position,0,,,18,11,0.0
+prefix:dyt,PC0693,position,0,,,18,13,0.0
+prefix:fche,PC0694,position,0,,,23,12,0.0
+prefix:fcho,PC0695,position,0,,,20,15,0.0
+prefix:kai,PC0696,position,0,,,65,11,0.0
+prefix:kaii,PC0697,position,0,,,81,5,0.0
+prefix:kal,PC0698,position,0,,,17,10,0.0
+prefix:kar,PC0699,position,0,,,15,12,0.0
+prefix:kchd,PC0700,position,0,,,27,6,0.0
+prefix:kche,PC0701,position,0,,,78,21,0.0
+prefix:kcho,PC0702,position,0,,,70,20,0.0
+prefix:kech,PC0703,position,0,,,17,7,0.0
+prefix:ked,PC0704,position,0,,,58,9,0.0
+prefix:keed,PC0705,position,0,,,69,7,0.0
+prefix:keeo,PC0706,position,0,,,49,15,0.0
+prefix:keo,PC0707,position,0,,,60,16,0.0
+prefix:kod,PC0708,position,0,,,17,10,0.0
+prefix:kol,PC0709,position,0,,,28,21,0.0
+prefix:kshe,PC0710,position,0,,,28,9,0.0
+prefix:lchd,PC0711,position,0,,,24,5,0.0
+prefix:lche,PC0712,position,0,,,215,28,0.0
+prefix:lchee,PC0713,position,0,,,24,4,0.0
+prefix:lda,PC0714,position,0,,,16,8,0.0
+prefix:lka,PC0715,position,0,,,136,13,0.0
+prefix:lkch,PC0716,position,0,,,37,11,0.0
+prefix:lke,PC0717,position,0,,,76,31,0.0
+prefix:lkee,PC0718,position,0,,,101,18,0.0
+prefix:lkeee,PC0719,position,0,,,16,6,0.0
+prefix:lol,PC0720,position,0,,,19,14,0.0
+prefix:lshe,PC0721,position,0,,,75,15,0.0
+prefix:lshee,PC0722,position,0,,,16,5,0.0
+prefix:oai,PC0723,position,0,,,15,3,0.0
+prefix:oaii,PC0724,position,0,,,29,3,0.0
+prefix:oche,PC0725,position,0,,,23,11,0.0
+prefix:ocho,PC0726,position,0,,,19,10,0.0
+prefix:ockhe,PC0727,position,0,,,16,3,0.0
+prefix:oda,PC0728,position,1,9,402,139,20,0.000168
+prefix:ofa,PC0729,position,0,,,19,11,0.0
+prefix:ofch,PC0730,position,0,,,32,17,0.0
+prefix:oka,PC0731,position,1,8,359,753,60,0.010438
+prefix:okch,PC0732,position,1,12,525,190,45,0.001437
+prefix:oke,PC0733,position,1,3,189,386,66,0.013313
+prefix:okee,PC0734,position,1,4,239,370,41,0.020588
+prefix:okeee,PC0735,position,0,,,38,9,0.0
+prefix:oko,PC0736,position,1,9,420,147,29,0.000432
+prefix:oksh,PC0737,position,0,,,38,15,0.0
+prefix:ola,PC0738,position,0,,,94,17,0.0
+prefix:olch,PC0739,position,0,,,144,40,0.0
+prefix:old,PC0740,position,0,,,58,11,0.0
+prefix:olk,PC0741,position,1,1,42,342,65,0.032346
+prefix:olo,PC0742,position,1,1,57,75,25,0.000109
+prefix:olsh,PC0743,position,0,,,70,22,0.0
+prefix:olt,PC0744,position,0,,,34,22,0.0
+prefix:opa,PC0745,position,0,,,59,32,0.0
+prefix:opch,PC0746,position,1,6,313,185,50,0.000143
+prefix:opo,PC0747,position,0,,,24,18,0.0
+prefix:ora,PC0748,position,0,,,90,20,0.0
+prefix:orch,PC0749,position,0,,,16,14,0.0
+prefix:oro,PC0750,position,0,,,25,10,0.0
+prefix:ota,PC0751,position,1,8,377,649,68,0.001918
+prefix:otch,PC0752,position,1,6,320,249,55,0.007188
+prefix:ote,PC0753,position,1,4,232,336,54,0.035708
+prefix:otee,PC0754,position,1,4,251,260,32,0.030033
+prefix:oto,PC0755,position,1,2,89,163,41,0.001207
+prefix:otsh,PC0756,position,0,,,35,15,0.0
+prefix:oty,PC0757,position,0,,,15,12,0.0
+prefix:pchd,PC0758,position,0,,,30,10,0.0
+prefix:pche,PC0759,position,0,,,122,39,0.0
+prefix:pcho,PC0760,position,0,,,59,28,0.0
+prefix:pod,PC0761,position,0,,,21,13,0.0
+prefix:pol,PC0762,position,0,,,71,48,0.0
+prefix:pshe,PC0763,position,0,,,21,14,0.0
+prefix:qek,PC0764,position,0,,,19,13,0.0
+prefix:qoa,PC0765,position,0,,,49,9,0.0
+prefix:qoch,PC0766,position,0,,,23,15,0.0
+prefix:qockh,PC0767,position,0,,,64,17,0.0
+prefix:qocth,PC0768,position,0,,,25,12,0.0
+prefix:qod,PC0769,position,1,9,394,114,22,0.00756
+prefix:qoe,PC0770,position,0,,,44,27,0.0
+prefix:qoee,PC0771,position,0,,,61,18,0.0
+prefix:qoeee,PC0772,position,0,,,15,5,0.0
+prefix:qof,PC0773,position,0,,,38,24,0.0
+prefix:qok,PC0774,position,1,1,39,3061,240,0.024969
+prefix:qol,PC0775,position,1,1,56,104,45,0.06502
+prefix:qoo,PC0776,position,0,,,30,17,0.0
+prefix:qop,PC0777,position,1,1,2,159,54,0.007311
+prefix:qot,PC0778,position,1,2,95,1082,164,0.026086
+prefix:rai,PC0779,position,0,,,28,4,0.0
+prefix:raii,PC0780,position,0,,,64,2,0.0
+prefix:rche,PC0781,position,0,,,29,10,0.0
+prefix:sai,PC0782,position,0,,,104,11,0.0
+prefix:saii,PC0783,position,1,1,3,131,9,0.001628
+prefix:sal,PC0784,position,0,,,31,25,0.0
+prefix:sar,PC0785,position,0,,,28,15,0.0
+prefix:sche,PC0786,position,0,,,25,12,0.0
+prefix:shckhe,PC0787,position,0,,,22,7,0.0
+prefix:shda,PC0788,position,0,,,23,9,0.0
+prefix:shea,PC0789,position,0,,,56,10,0.0
+prefix:sheckh,PC0790,position,0,,,45,5,0.0
+prefix:shecth,PC0791,position,0,,,21,4,0.0
+prefix:shed,PC0792,position,0,,,482,20,0.0
+prefix:sheed,PC0793,position,0,,,86,5,0.0
+prefix:sheek,PC0794,position,0,,,29,11,0.0
+prefix:sheeo,PC0795,position,0,,,33,13,0.0
+prefix:shek,PC0796,position,0,,,74,24,0.0
+prefix:sheo,PC0797,position,1,10,440,298,58,0.00944
+prefix:shet,PC0798,position,0,,,15,8,0.0
+prefix:shod,PC0799,position,1,9,399,97,14,0.002427
+prefix:shok,PC0800,position,0,,,49,24,0.0
+prefix:shol,PC0801,position,0,,,39,27,0.0
+prefix:shor,PC0802,position,0,,,15,11,0.0
+prefix:shot,PC0803,position,0,,,28,18,0.0
+prefix:soii,PC0804,position,0,,,21,3,0.0
+prefix:sol,PC0805,position,0,,,62,38,0.0
+prefix:sor,PC0806,position,0,,,18,9,0.0
+prefix:sshe,PC0807,position,0,,,18,7,0.0
+prefix:tai,PC0808,position,0,,,29,10,0.0
+prefix:tar,PC0809,position,0,,,17,13,0.0
+prefix:tchd,PC0810,position,0,,,21,7,0.0
+prefix:tche,PC0811,position,0,,,100,27,0.0
+prefix:tcho,PC0812,position,1,2,128,73,24,0.002034
+prefix:ted,PC0813,position,0,,,59,11,0.0
+prefix:teed,PC0814,position,0,,,22,6,0.0
+prefix:teeo,PC0815,position,0,,,19,11,0.0
+prefix:teo,PC0816,position,0,,,45,19,0.0
+prefix:tod,PC0817,position,0,,,30,11,0.0
+prefix:tol,PC0818,position,0,,,36,31,0.0
+prefix:tshe,PC0819,position,0,,,34,15,0.0
+prefix:tsho,PC0820,position,0,,,24,15,0.0
+prefix:yche,PC0821,position,0,,,96,32,0.0
+prefix:ychee,PC0822,position,0,,,47,16,0.0
+prefix:ycho,PC0823,position,0,,,40,14,0.0
+prefix:yda,PC0824,position,0,,,38,9,0.0
+prefix:yka,PC0825,position,0,,,132,22,0.0
+prefix:ykch,PC0826,position,0,,,72,21,0.0
+prefix:yke,PC0827,position,0,,,80,29,0.0
+prefix:ykee,PC0828,position,0,,,142,32,0.0
+prefix:yko,PC0829,position,0,,,41,17,0.0
+prefix:ypch,PC0830,position,0,,,47,22,0.0
+prefix:yshe,PC0831,position,0,,,40,17,0.0
+prefix:yshee,PC0832,position,0,,,20,8,0.0
+prefix:yta,PC0833,position,1,6,330,121,22,0.003685
+prefix:ytch,PC0834,position,0,,,90,31,0.0
+prefix:yte,PC0835,position,0,,,72,23,0.0
+prefix:ytee,PC0836,position,0,,,70,11,0.0
+prefix:yto,PC0837,position,0,,,56,15,0.0
+suffix:ady,PC0838,position,0,,,16,13,0.0
+suffix:aiiin,PC0839,position,0,,,68,32,0.0
+suffix:aiin,PC0840,position,1,2,106,3184,435,0.005224
+suffix:aiir,PC0841,position,1,12,506,72,36,0.000311
+suffix:aim,PC0842,position,0,,,31,22,0.0
+suffix:ain,PC0843,position,1,4,210,1516,259,0.021676
+suffix:air,PC0844,position,1,12,511,346,100,0.009142
+suffix:als,PC0845,position,0,,,23,15,0.0
+suffix:aly,PC0846,position,1,8,365,166,73,0.007089
+suffix:ary,PC0847,position,0,,,73,33,0.0
+suffix:chal,PC0848,position,0,,,38,22,0.0
+suffix:cham,PC0849,position,0,,,18,14,0.0
+suffix:char,PC0850,position,0,,,53,30,0.0
+suffix:chdy,PC0851,position,1,7,348,363,97,0.008141
+suffix:ched,PC0852,position,0,,,34,20,0.0
+suffix:cheey,PC0853,position,1,11,460,133,49,5e-06
+suffix:cheo,PC0854,position,0,,,53,20,0.0
+suffix:ches,PC0855,position,0,,,19,16,0.0
+suffix:chey,PC0856,position,1,11,480,503,127,0.055108
+suffix:chod,PC0857,position,0,,,25,16,0.0
+suffix:chol,PC0858,position,1,12,523,226,53,0.017504
+suffix:chor,PC0859,position,1,2,129,226,59,0.022845
+suffix:chos,PC0860,position,0,,,24,16,0.0
+suffix:ckhdy,PC0861,position,0,,,20,6,0.0
+suffix:ckhey,PC0862,position,0,,,105,21,0.0
+suffix:ckhol,PC0863,position,0,,,18,7,0.0
+suffix:cthdy,PC0864,position,0,,,16,9,0.0
+suffix:cthey,PC0865,position,0,,,38,18,0.0
+suffix:dal,PC0866,position,1,4,222,234,106,0.006754
+suffix:dam,PC0867,position,0,,,104,61,0.0
+suffix:dar,PC0868,position,1,11,464,331,135,0.029009
+suffix:dchy,PC0869,position,0,,,23,20,0.0
+suffix:deey,PC0870,position,0,,,16,14,0.0
+suffix:dol,PC0871,position,0,,,45,33,0.0
+suffix:dor,PC0872,position,0,,,51,27,0.0
+suffix:eal,PC0873,position,1,5,288,82,21,0.012869
+suffix:eam,PC0874,position,0,,,22,11,0.0
+suffix:ear,PC0875,position,0,,,117,32,0.0
+suffix:echy,PC0876,position,0,,,41,18,0.0
+suffix:eckhy,PC0877,position,0,,,92,10,0.0
+suffix:ecthy,PC0878,position,0,,,50,4,0.0
+suffix:edy,PC0879,position,0,,,2841,267,0.0
+suffix:eear,PC0880,position,0,,,32,18,0.0
+suffix:eechy,PC0881,position,0,,,20,9,0.0
+suffix:eedy,PC0882,position,0,,,1118,99,0.0
+suffix:eeedy,PC0883,position,0,,,52,20,0.0
+suffix:eeky,PC0884,position,0,,,42,7,0.0
+suffix:eeod,PC0885,position,0,,,16,10,0.0
+suffix:eeol,PC0886,position,1,10,426,103,29,0.002668
+suffix:eeor,PC0887,position,1,10,421,80,27,0.000376
+suffix:eeos,PC0888,position,0,,,32,19,0.0
+suffix:eety,PC0889,position,0,,,15,6,0.0
+suffix:eky,PC0890,position,0,,,107,17,0.0
+suffix:eod,PC0891,position,0,,,50,23,0.0
+suffix:eol,PC0892,position,1,10,433,655,89,0.008475
+suffix:eom,PC0893,position,0,,,23,9,0.0
+suffix:eor,PC0894,position,1,10,441,284,63,0.241082
+suffix:eos,PC0895,position,0,,,106,37,0.0
+suffix:eoy,PC0896,position,0,,,16,9,0.0
+suffix:ety,PC0897,position,0,,,41,12,0.0
+suffix:fchy,PC0898,position,0,,,17,11,0.0
+suffix:iry,PC0899,position,0,,,15,12,0.0
+suffix:kal,PC0900,position,1,1,32,415,36,0.008338
+suffix:kam,PC0901,position,0,,,101,23,0.0
+suffix:kan,PC0902,position,0,,,21,9,0.0
+suffix:kar,PC0903,position,1,1,35,441,50,0.001739
+suffix:kcho,PC0904,position,0,,,27,6,0.0
+suffix:kchy,PC0905,position,1,12,522,180,34,0.000752
+suffix:keed,PC0906,position,0,,,25,4,0.0
+suffix:keeey,PC0907,position,0,,,87,16,0.0
+suffix:keeo,PC0908,position,0,,,51,9,0.0
+suffix:kees,PC0909,position,0,,,24,6,0.0
+suffix:keey,PC0910,position,1,4,238,698,58,0.040126
+suffix:keo,PC0911,position,0,,,29,9,0.0
+suffix:key,PC0912,position,1,3,190,248,38,0.000723
+suffix:kol,PC0913,position,1,1,77,209,24,0.00411
+suffix:kor,PC0914,position,0,,,97,20,0.0
+suffix:kshy,PC0915,position,0,,,32,15,0.0
+suffix:lal,PC0916,position,0,,,39,19,0.0
+suffix:lam,PC0917,position,0,,,28,11,0.0
+suffix:lar,PC0918,position,1,8,367,41,20,0.000427
+suffix:lchy,PC0919,position,0,,,35,19,0.0
+suffix:ldy,PC0920,position,1,1,27,215,86,0.001937
+suffix:lky,PC0921,position,0,,,48,18,0.0
+suffix:lol,PC0922,position,0,,,59,31,0.0
+suffix:lom,PC0923,position,0,,,19,12,0.0
+suffix:lor,PC0924,position,1,1,48,101,45,0.000204
+suffix:lshy,PC0925,position,0,,,21,15,0.0
+suffix:oal,PC0926,position,0,,,18,12,0.0
+suffix:oar,PC0927,position,0,,,42,25,0.0
+suffix:ochy,PC0928,position,0,,,20,14,0.0
+suffix:ockhy,PC0929,position,0,,,66,16,0.0
+suffix:octhy,PC0930,position,1,2,143,55,13,0.001867
+suffix:ody,PC0931,position,1,9,389,941,249,0.039391
+suffix:oeey,PC0932,position,0,,,26,12,0.0
+suffix:oiiin,PC0933,position,0,,,25,14,0.0
+suffix:oiin,PC0934,position,1,2,138,132,45,0.006624
+suffix:oky,PC0935,position,1,1,65,228,28,0.003221
+suffix:ols,PC0936,position,0,,,33,24,0.0
+suffix:oly,PC0937,position,1,1,66,104,61,0.001047
+suffix:oor,PC0938,position,0,,,22,12,0.0
+suffix:ory,PC0939,position,0,,,56,36,0.0
+suffix:oty,PC0940,position,1,2,149,149,17,0.000721
+suffix:par,PC0941,position,0,,,22,7,0.0
+suffix:pchy,PC0942,position,0,,,61,25,0.0
+suffix:ral,PC0943,position,0,,,66,29,0.0
+suffix:ram,PC0944,position,0,,,61,29,0.0
+suffix:rar,PC0945,position,0,,,46,28,0.0
+suffix:rchy,PC0946,position,0,,,16,11,0.0
+suffix:rdy,PC0947,position,0,,,19,16,0.0
+suffix:rol,PC0948,position,0,,,52,28,0.0
+suffix:rom,PC0949,position,0,,,15,11,0.0
+suffix:ror,PC0950,position,0,,,32,18,0.0
+suffix:shdy,PC0951,position,0,,,60,36,0.0
+suffix:shed,PC0952,position,0,,,18,13,0.0
+suffix:sheey,PC0953,position,0,,,49,22,0.0
+suffix:shey,PC0954,position,1,5,278,158,55,1.2e-05
+suffix:shol,PC0955,position,0,,,39,25,0.0
+suffix:shor,PC0956,position,0,,,36,15,0.0
+suffix:tal,PC0957,position,1,8,374,224,17,0.000185
+suffix:tam,PC0958,position,0,,,85,17,0.0
+suffix:tar,PC0959,position,0,,,251,29,0.0
+suffix:tcho,PC0960,position,0,,,21,7,0.0
+suffix:tchy,PC0961,position,0,,,162,24,0.0
+suffix:teeey,PC0962,position,0,,,16,5,0.0
+suffix:teey,PC0963,position,0,,,201,20,0.0
+suffix:tey,PC0964,position,1,3,170,100,17,0.001097
+suffix:tol,PC0965,position,1,2,98,149,14,0.000158
+suffix:tor,PC0966,position,0,,,84,11,0.0
+suffix:tshy,PC0967,position,0,,,18,9,0.0
+suffix:ydy,PC0968,position,0,,,40,30,0.0
+suffix:yky,PC0969,position,0,,,19,11,0.0
+suffix:yty,PC0970,position,0,,,16,11,0.0
+interior:a >> interior:ir,PC0971,interaction,0,,,76,63,0.0
+interior:a >> interior:la,PC0972,interaction,1,8,371,65,45,0.001217
+interior:a >> interior:lch,PC0973,interaction,0,,,71,54,0.0
+interior:a >> interior:ld,PC0974,interaction,1,8,364,97,53,0.000284
+interior:a >> interior:lk,PC0975,interaction,0,,,45,39,0.0
+interior:a >> interior:lo,PC0976,interaction,0,,,87,66,0.0
+interior:a >> interior:lsh,PC0977,interaction,0,,,32,27,0.0
+interior:a >> interior:ra,PC0978,interaction,1,4,228,130,91,0.000286
+interior:a >> interior:ro,PC0979,interaction,0,,,52,43,0.0
+interior:a >> suffix:ldy,PC0980,interaction,0,,,68,28,0.0
+interior:a >> suffix:lor,PC0981,interaction,0,,,30,18,0.0
+interior:a >> suffix:ram,PC0982,interaction,0,,,31,18,0.0
+interior:ch >> interior:aii,PC0983,interaction,0,,,35,24,0.0
+interior:ch >> interior:da,PC0984,interaction,0,,,73,54,0.0
+interior:ch >> interior:ea,PC0985,interaction,0,,,46,36,0.0
+interior:ch >> interior:ed,PC0986,interaction,1,6,297,815,170,0.0052
+interior:ch >> interior:eed,PC0987,interaction,0,,,49,23,0.0
+interior:ch >> interior:eo,PC0988,interaction,1,9,409,282,163,0.002078
+interior:ch >> interior:od,PC0989,interaction,0,,,104,61,0.0
+interior:ch >> interior:ol,PC0990,interaction,0,,,37,33,0.0
+interior:ch >> suffix:edy,PC0991,interaction,1,6,296,711,95,0.005427
+interior:ch >> suffix:eedy,PC0992,interaction,0,,,44,18,0.0
+interior:ch >> suffix:eol,PC0993,interaction,0,,,88,29,0.0
+interior:ch >> suffix:eor,PC0994,interaction,0,,,45,22,0.0
+interior:ch >> suffix:ody,PC0995,interaction,0,,,59,29,0.0
+interior:che >> interior:da,PC0996,interaction,0,,,77,49,0.0
+interior:che >> interior:od,PC0997,interaction,0,,,74,46,0.0
+interior:che >> suffix:ody,PC0998,interaction,0,,,44,20,0.0
+interior:cho >> interior:da,PC0999,interaction,0,,,32,20,0.0
+interior:ckh >> interior:ed,PC1000,interaction,0,,,39,12,0.0
+interior:d >> interior:ai,PC1001,interaction,1,4,223,251,138,0.005653
+interior:d >> interior:aii,PC1002,interaction,1,9,396,526,164,0.023033
+interior:d >> interior:al,PC1003,interaction,0,,,52,47,0.0
+interior:d >> suffix:aiin,PC1004,interaction,1,9,395,511,151,0.026096
+interior:d >> suffix:ain,PC1005,interaction,1,4,224,185,83,0.034362
+interior:d >> suffix:air,PC1006,interaction,0,,,47,36,0.0
+interior:e >> interior:che,PC1007,interaction,0,,,32,20,0.0
+interior:e >> interior:da,PC1008,interaction,0,,,378,138,0.0
+interior:e >> interior:dy,PC1009,interaction,0,,,30,29,0.0
+interior:e >> interior:ka,PC1010,interaction,0,,,69,31,0.0
+interior:e >> interior:ke,PC1011,interaction,0,,,37,22,0.0
+interior:e >> interior:kee,PC1012,interaction,0,,,31,15,0.0
+interior:e >> interior:od,PC1013,interaction,1,9,391,533,174,0.00298
+interior:e >> interior:ok,PC1014,interaction,0,,,81,51,0.0
+interior:e >> interior:ol,PC1015,interaction,0,,,93,77,0.0
+interior:e >> suffix:dal,PC1016,interaction,0,,,72,23,0.0
+interior:e >> suffix:dar,PC1017,interaction,0,,,103,26,0.0
+interior:e >> suffix:ody,PC1018,interaction,1,9,390,386,80,0.0038
+interior:ed >> interior:ai,PC1019,interaction,0,,,70,30,0.0
+interior:ed >> interior:aii,PC1020,interaction,0,,,88,29,0.0
+interior:ed >> suffix:aiin,PC1021,interaction,0,,,85,26,0.0
+interior:ed >> suffix:ain,PC1022,interaction,0,,,55,16,0.0
+interior:ee >> interior:da,PC1023,interaction,0,,,101,65,0.0
+interior:ee >> interior:od,PC1024,interaction,0,,,157,61,0.0
+interior:ee >> suffix:dar,PC1025,interaction,0,,,32,17,0.0
+interior:ee >> suffix:ody,PC1026,interaction,0,,,115,26,0.0
+interior:eeo >> interior:da,PC1027,interaction,0,,,33,26,0.0
+interior:eo >> interior:da,PC1028,interaction,0,,,119,67,0.0
+interior:f >> interior:che,PC1029,interaction,0,,,47,24,0.0
+interior:fch >> interior:ed,PC1030,interaction,0,,,31,14,0.0
+interior:i >> interior:ro,PC1031,interaction,0,,,37,31,0.0
+interior:k >> interior:ai,PC1032,interaction,1,1,36,683,95,0.006556
+interior:k >> interior:aii,PC1033,interaction,1,1,12,723,63,0.017422
+interior:k >> interior:al,PC1034,interaction,1,8,363,127,67,0.014276
+interior:k >> interior:chd,PC1035,interaction,0,,,106,27,0.0
+interior:k >> interior:che,PC1036,interaction,1,11,462,220,57,0.033874
+interior:k >> interior:cho,PC1037,interaction,0,,,119,48,0.0
+interior:k >> interior:ea,PC1038,interaction,0,,,57,28,0.0
+interior:k >> interior:ech,PC1039,interaction,0,,,53,27,0.0
+interior:k >> interior:ed,PC1040,interaction,1,3,178,578,76,0.012092
+interior:k >> interior:eed,PC1041,interaction,0,,,623,71,0.0
+interior:k >> interior:eeo,PC1042,interaction,0,,,160,63,0.0
+interior:k >> interior:eo,PC1043,interaction,1,10,428,377,109,0.051935
+interior:k >> interior:od,PC1044,interaction,0,,,35,19,0.0
+interior:k >> interior:ol,PC1045,interaction,0,,,43,30,0.0
+interior:k >> interior:she,PC1046,interaction,0,,,60,24,0.0
+interior:k >> suffix:aiin,PC1047,interaction,1,1,13,704,52,0.047001
+interior:k >> suffix:ain,PC1048,interaction,1,1,37,594,56,0.14528
+interior:k >> suffix:air,PC1049,interaction,0,,,68,18,0.0
+interior:k >> suffix:aly,PC1050,interaction,0,,,48,13,0.0
+interior:k >> suffix:chdy,PC1051,interaction,0,,,95,17,0.0
+interior:k >> suffix:chey,PC1052,interaction,0,,,84,12,0.0
+interior:k >> suffix:chol,PC1053,interaction,0,,,42,7,0.0
+interior:k >> suffix:chor,PC1054,interaction,0,,,35,9,0.0
+interior:k >> suffix:edy,PC1055,interaction,1,3,179,507,39,0.010725
+interior:k >> suffix:eedy,PC1056,interaction,0,,,576,38,0.0
+interior:k >> suffix:eeol,PC1057,interaction,0,,,35,9,0.0
+interior:k >> suffix:eeor,PC1058,interaction,0,,,31,9,0.0
+interior:k >> suffix:eol,PC1059,interaction,1,10,427,147,16,0.009093
+interior:k >> suffix:eor,PC1060,interaction,0,,,53,12,0.0
+interior:kch >> interior:ed,PC1061,interaction,1,6,299,103,16,0.005007
+interior:kch >> suffix:edy,PC1062,interaction,1,6,300,98,12,0.003555
+interior:ke >> interior:da,PC1063,interaction,0,,,56,23,0.0
+interior:ke >> interior:od,PC1064,interaction,0,,,105,33,0.0
+interior:ke >> suffix:ody,PC1065,interaction,0,,,90,19,0.0
+interior:kee >> interior:da,PC1066,interaction,0,,,39,25,0.0
+interior:kee >> interior:od,PC1067,interaction,0,,,64,20,0.0
+interior:kee >> suffix:ody,PC1068,interaction,0,,,51,9,0.0
+interior:l >> interior:ai,PC1069,interaction,0,,,42,27,0.0
+interior:l >> interior:aii,PC1070,interaction,0,,,98,32,0.0
+interior:l >> interior:chd,PC1071,interaction,0,,,39,23,0.0
+interior:l >> interior:che,PC1072,interaction,0,,,213,85,0.0
+interior:l >> interior:chee,PC1073,interaction,0,,,31,17,0.0
+interior:l >> interior:da,PC1074,interaction,0,,,94,64,0.0
+interior:l >> interior:ka,PC1075,interaction,0,,,211,76,0.0
+interior:l >> interior:kch,PC1076,interaction,0,,,30,21,0.0
+interior:l >> interior:ke,PC1077,interaction,0,,,84,38,0.0
+interior:l >> interior:kee,PC1078,interaction,0,,,173,59,0.0
+interior:l >> interior:she,PC1079,interaction,0,,,97,50,0.0
+interior:l >> suffix:aiin,PC1080,interaction,0,,,91,27,0.0
+interior:l >> suffix:ain,PC1081,interaction,0,,,30,15,0.0
+interior:l >> suffix:chdy,PC1082,interaction,0,,,31,16,0.0
+interior:l >> suffix:chey,PC1083,interaction,0,,,71,25,0.0
+interior:l >> suffix:kar,PC1084,interaction,0,,,34,10,0.0
+interior:l >> suffix:keey,PC1085,interaction,0,,,60,16,0.0
+interior:lch >> interior:ed,PC1086,interaction,0,,,95,26,0.0
+interior:lch >> suffix:edy,PC1087,interaction,0,,,92,23,0.0
+interior:ld >> interior:aii,PC1088,interaction,0,,,31,15,0.0
+interior:ld >> suffix:aiin,PC1089,interaction,0,,,30,14,0.0
+interior:lk >> interior:ai,PC1090,interaction,0,,,72,25,0.0
+interior:lk >> interior:aii,PC1091,interaction,0,,,55,17,0.0
+interior:lk >> interior:ed,PC1092,interaction,0,,,41,13,0.0
+interior:lk >> interior:eed,PC1093,interaction,0,,,78,21,0.0
+interior:lk >> suffix:aiin,PC1094,interaction,0,,,54,16,0.0
+interior:lk >> suffix:ain,PC1095,interaction,0,,,62,18,0.0
+interior:lk >> suffix:edy,PC1096,interaction,0,,,37,10,0.0
+interior:lk >> suffix:eedy,PC1097,interaction,0,,,74,17,0.0
+interior:lsh >> interior:ed,PC1098,interaction,0,,,45,17,0.0
+interior:lsh >> suffix:edy,PC1099,interaction,0,,,44,16,0.0
+interior:o >> interior:aii,PC1100,interaction,0,,,65,28,0.0
+interior:o >> interior:ckhe,PC1101,interaction,0,,,44,17,0.0
+interior:o >> interior:da,PC1102,interaction,1,9,410,515,235,0.014049
+interior:o >> interior:do,PC1103,interaction,0,,,34,28,0.0
+interior:o >> interior:eed,PC1104,interaction,0,,,30,7,0.0
+interior:o >> interior:ka,PC1105,interaction,1,1,46,1128,100,0.014303
+interior:o >> interior:kch,PC1106,interaction,1,12,528,318,62,0.003549
+interior:o >> interior:ke,PC1107,interaction,1,3,186,667,96,0.002773
+interior:o >> interior:kee,PC1108,interaction,1,4,236,792,72,0.018023
+interior:o >> interior:keee,PC1109,interaction,0,,,42,9,0.0
+interior:o >> interior:ko,PC1110,interaction,0,,,216,56,0.0
+interior:o >> interior:ksh,PC1111,interaction,0,,,47,17,0.0
+interior:o >> interior:la,PC1112,interaction,0,,,72,48,0.0
+interior:o >> interior:lch,PC1113,interaction,0,,,132,86,0.0
+interior:o >> interior:ld,PC1114,interaction,0,,,141,87,0.0
+interior:o >> interior:lk,PC1115,interaction,0,,,170,123,0.0
+interior:o >> interior:lo,PC1116,interaction,0,,,70,56,0.0
+interior:o >> interior:lsh,PC1117,interaction,0,,,66,53,0.0
+interior:o >> interior:pch,PC1118,interaction,0,,,128,47,0.0
+interior:o >> interior:ra,PC1119,interaction,0,,,87,67,0.0
+interior:o >> interior:ro,PC1120,interaction,0,,,49,41,0.0
+interior:o >> interior:ta,PC1121,interaction,1,1,21,361,59,0.00921
+interior:o >> interior:tch,PC1122,interaction,1,2,151,258,67,0.008863
+interior:o >> interior:te,PC1123,interaction,0,,,199,45,0.0
+interior:o >> interior:tee,PC1124,interaction,0,,,159,22,0.0
+interior:o >> interior:to,PC1125,interaction,1,2,97,141,48,0.000545
+interior:o >> suffix:aiin,PC1126,interaction,0,,,63,26,0.0
+interior:o >> suffix:ckhey,PC1127,interaction,0,,,31,8,0.0
+interior:o >> suffix:dal,PC1128,interaction,0,,,63,33,0.0
+interior:o >> suffix:dar,PC1129,interaction,0,,,83,43,0.0
+interior:o >> suffix:kal,PC1130,interaction,1,1,44,206,8,0.016132
+interior:o >> suffix:kam,PC1131,interaction,0,,,33,6,0.0
+interior:o >> suffix:kar,PC1132,interaction,0,,,178,13,0.0
+interior:o >> suffix:kchy,PC1133,interaction,0,,,96,8,0.0
+interior:o >> suffix:keeey,PC1134,interaction,0,,,30,3,0.0
+interior:o >> suffix:keey,PC1135,interaction,1,4,237,337,17,0.015918
+interior:o >> suffix:key,PC1136,interaction,0,,,123,7,0.0
+interior:o >> suffix:kol,PC1137,interaction,0,,,106,7,0.0
+interior:o >> suffix:kor,PC1138,interaction,0,,,43,6,0.0
+interior:o >> suffix:ldy,PC1139,interaction,0,,,97,47,0.0
+interior:o >> suffix:tal,PC1140,interaction,0,,,66,4,0.0
+interior:o >> suffix:tar,PC1141,interaction,0,,,76,6,0.0
+interior:o >> suffix:tchy,PC1142,interaction,0,,,83,10,0.0
+interior:o >> suffix:teey,PC1143,interaction,0,,,50,7,0.0
+interior:o >> suffix:tey,PC1144,interaction,0,,,32,5,0.0
+interior:o >> suffix:tol,PC1145,interaction,0,,,59,7,0.0
+interior:o >> suffix:tor,PC1146,interaction,0,,,32,4,0.0
+interior:od >> interior:ai,PC1147,interaction,0,,,80,46,0.0
+interior:od >> interior:aii,PC1148,interaction,1,9,398,235,66,0.001607
+interior:od >> suffix:aiin,PC1149,interaction,1,9,397,230,62,0.002274
+interior:od >> suffix:ain,PC1150,interaction,0,,,57,27,0.0
+interior:ok >> interior:ai,PC1151,interaction,0,,,331,20,0.0
+interior:ok >> interior:aii,PC1152,interaction,1,1,15,301,15,0.001302
+interior:ok >> interior:al,PC1153,interaction,1,1,31,53,25,0.001681
+interior:ok >> interior:chd,PC1154,interaction,0,,,52,4,0.0
+interior:ok >> interior:che,PC1155,interaction,0,,,87,16,0.0
+interior:ok >> interior:cho,PC1156,interaction,0,,,44,15,0.0
+interior:ok >> interior:ed,PC1157,interaction,0,,,314,20,0.0
+interior:ok >> interior:eed,PC1158,interaction,0,,,334,16,0.0
+interior:ok >> interior:eeo,PC1159,interaction,0,,,52,19,0.0
+interior:ok >> interior:eo,PC1160,interaction,1,10,429,149,30,0.014282
+interior:ok >> suffix:aiin,PC1161,interaction,1,1,14,295,11,0.001945
+interior:ok >> suffix:ain,PC1162,interaction,1,1,40,304,13,0.00435
+interior:ok >> suffix:chey,PC1163,interaction,0,,,32,4,0.0
+interior:ok >> suffix:edy,PC1164,interaction,0,,,290,11,0.0
+interior:ok >> suffix:eedy,PC1165,interaction,0,,,318,9,0.0
+interior:ok >> suffix:eol,PC1166,interaction,0,,,57,5,0.0
+interior:ol >> interior:che,PC1167,interaction,0,,,84,43,0.0
+interior:ol >> interior:da,PC1168,interaction,0,,,31,27,0.0
+interior:ol >> interior:ka,PC1169,interaction,0,,,53,36,0.0
+interior:ol >> interior:kee,PC1170,interaction,0,,,53,32,0.0
+interior:ol >> interior:she,PC1171,interaction,0,,,35,27,0.0
+interior:ol >> suffix:chey,PC1172,interaction,0,,,32,16,0.0
+interior:op >> interior:che,PC1173,interaction,0,,,60,20,0.0
+interior:or >> interior:aii,PC1174,interaction,0,,,36,23,0.0
+interior:or >> suffix:aiin,PC1175,interaction,0,,,34,21,0.0
+interior:ot >> interior:ai,PC1176,interaction,0,,,77,12,0.0
+interior:ot >> interior:aii,PC1177,interaction,0,,,97,11,0.0
+interior:ot >> interior:che,PC1178,interaction,0,,,71,15,0.0
+interior:ot >> interior:cho,PC1179,interaction,0,,,41,15,0.0
+interior:ot >> interior:ed,PC1180,interaction,0,,,106,14,0.0
+interior:ot >> interior:eed,PC1181,interaction,0,,,82,5,0.0
+interior:ot >> interior:eo,PC1182,interaction,0,,,38,13,0.0
+interior:ot >> suffix:aiin,PC1183,interaction,0,,,95,9,0.0
+interior:ot >> suffix:ain,PC1184,interaction,0,,,66,4,0.0
+interior:ot >> suffix:edy,PC1185,interaction,0,,,91,5,0.0
+interior:p >> interior:aii,PC1186,interaction,0,,,31,17,0.0
+interior:p >> interior:chd,PC1187,interaction,0,,,57,20,0.0
+interior:p >> interior:che,PC1188,interaction,0,,,225,75,0.0
+interior:p >> interior:cho,PC1189,interaction,0,,,44,22,0.0
+interior:p >> suffix:chdy,PC1190,interaction,0,,,48,11,0.0
+interior:p >> suffix:chey,PC1191,interaction,0,,,59,18,0.0
+interior:pch >> interior:ed,PC1192,interaction,0,,,121,22,0.0
+interior:pch >> suffix:edy,PC1193,interaction,0,,,109,13,0.0
+interior:r >> interior:ai,PC1194,interaction,0,,,68,41,0.0
+interior:r >> interior:aii,PC1195,interaction,0,,,101,42,0.0
+interior:r >> interior:od,PC1196,interaction,0,,,45,29,0.0
+interior:r >> suffix:aiin,PC1197,interaction,0,,,94,35,0.0
+interior:r >> suffix:ain,PC1198,interaction,0,,,50,25,0.0
+interior:r >> suffix:ody,PC1199,interaction,0,,,33,18,0.0
+interior:sh >> interior:ed,PC1200,interaction,0,,,236,72,0.0
+interior:sh >> interior:eed,PC1201,interaction,0,,,35,18,0.0
+interior:sh >> interior:eo,PC1202,interaction,0,,,108,76,0.0
+interior:sh >> suffix:edy,PC1203,interaction,0,,,221,58,0.0
+interior:sh >> suffix:eedy,PC1204,interaction,0,,,31,14,0.0
+interior:she >> interior:od,PC1205,interaction,0,,,35,23,0.0
+interior:t >> interior:ai,PC1206,interaction,0,,,243,40,0.0
+interior:t >> interior:aii,PC1207,interaction,1,2,113,305,34,0.016672
+interior:t >> interior:al,PC1208,interaction,1,8,368,73,49,0.000653
+interior:t >> interior:ar,PC1209,interaction,0,,,35,23,0.0
+interior:t >> interior:cha,PC1210,interaction,0,,,32,20,0.0
+interior:t >> interior:chd,PC1211,interaction,0,,,74,21,0.0
+interior:t >> interior:che,PC1212,interaction,1,6,298,191,51,0.002143
+interior:t >> interior:cho,PC1213,interaction,0,,,135,45,0.0
+interior:t >> interior:ed,PC1214,interaction,1,3,195,328,47,0.001684
+interior:t >> interior:eed,PC1215,interaction,0,,,225,25,0.0
+interior:t >> interior:eeo,PC1216,interaction,0,,,57,27,0.0
+interior:t >> interior:eo,PC1217,interaction,1,10,439,168,57,0.000305
+interior:t >> interior:od,PC1218,interaction,0,,,48,17,0.0
+interior:t >> interior:ol,PC1219,interaction,0,,,47,35,0.0
+interior:t >> interior:she,PC1220,interaction,0,,,32,14,0.0
+interior:t >> suffix:aiin,PC1221,interaction,1,2,112,293,24,0.015159
+interior:t >> suffix:ain,PC1222,interaction,0,,,195,19,0.0
+interior:t >> suffix:air,PC1223,interaction,0,,,33,6,0.0
+interior:t >> suffix:chdy,PC1224,interaction,0,,,65,13,0.0
+interior:t >> suffix:chey,PC1225,interaction,0,,,76,13,0.0
+interior:t >> suffix:chol,PC1226,interaction,0,,,51,7,0.0
+interior:t >> suffix:chor,PC1227,interaction,1,2,130,40,6,0.000174
+interior:t >> suffix:edy,PC1228,interaction,1,3,194,280,20,0.001557
+interior:t >> suffix:eedy,PC1229,interaction,0,,,207,11,0.0
+interior:t >> suffix:eol,PC1230,interaction,0,,,52,7,0.0
+interior:t >> suffix:ody,PC1231,interaction,0,,,33,7,0.0
+interior:tch >> interior:ed,PC1232,interaction,0,,,79,13,0.0
+interior:tch >> suffix:edy,PC1233,interaction,0,,,72,7,0.0
+interior:te >> interior:da,PC1234,interaction,0,,,35,15,0.0
+interior:te >> interior:od,PC1235,interaction,0,,,65,21,0.0
+interior:te >> suffix:ody,PC1236,interaction,0,,,47,9,0.0
+interior:y >> interior:ka,PC1237,interaction,0,,,31,29,0.0
+prefix:che >> interior:da,PC1238,interaction,0,,,120,13,0.0
+prefix:che >> interior:ka,PC1239,interaction,0,,,39,9,0.0
+prefix:che >> interior:od,PC1240,interaction,0,,,125,14,0.0
+prefix:che >> interior:ok,PC1241,interaction,0,,,41,21,0.0
+prefix:che >> interior:ol,PC1242,interaction,0,,,32,22,0.0
+prefix:cheo >> interior:da,PC1243,interaction,0,,,36,7,0.0
+prefix:cho >> interior:da,PC1244,interaction,0,,,80,11,0.0
+prefix:cho >> interior:ka,PC1245,interaction,0,,,43,8,0.0
+prefix:cho >> interior:kch,PC1246,interaction,0,,,32,10,0.0
+prefix:cho >> interior:ta,PC1247,interaction,0,,,34,10,0.0
+prefix:dch >> interior:ed,PC1248,interaction,0,,,31,5,0.0
+prefix:lch >> interior:ed,PC1249,interaction,0,,,125,8,0.0
+prefix:lk >> interior:ed,PC1250,interaction,0,,,36,8,0.0
+prefix:lk >> interior:eed,PC1251,interaction,0,,,41,5,0.0
+prefix:od >> interior:aii,PC1252,interaction,0,,,63,5,0.0
+prefix:ok >> interior:ai,PC1253,interaction,0,,,163,11,0.0
+prefix:ok >> interior:al,PC1254,interaction,0,,,50,22,0.0
+prefix:ok >> interior:che,PC1255,interaction,0,,,64,11,0.0
+prefix:ok >> interior:cho,PC1256,interaction,0,,,42,13,0.0
+prefix:ok >> interior:ed,PC1257,interaction,1,3,177,137,13,0.000475
+prefix:ok >> interior:eed,PC1258,interaction,0,,,122,13,0.0
+prefix:ok >> interior:eeo,PC1259,interaction,0,,,43,11,0.0
+prefix:ok >> interior:eo,PC1260,interaction,0,,,132,26,0.0
+prefix:oke >> interior:od,PC1261,interaction,0,,,30,5,0.0
+prefix:ol >> interior:aii,PC1262,interaction,0,,,47,3,0.0
+prefix:ol >> interior:che,PC1263,interaction,0,,,83,13,0.0
+prefix:ol >> interior:ka,PC1264,interaction,0,,,111,11,0.0
+prefix:ol >> interior:ke,PC1265,interaction,0,,,55,11,0.0
+prefix:ol >> interior:kee,PC1266,interaction,0,,,112,20,0.0
+prefix:ol >> interior:she,PC1267,interaction,0,,,45,9,0.0
+prefix:olk >> interior:ai,PC1268,interaction,0,,,39,3,0.0
+prefix:olk >> interior:eed,PC1269,interaction,0,,,45,3,0.0
+prefix:op >> interior:che,PC1270,interaction,0,,,106,21,0.0
+prefix:opch >> interior:ed,PC1271,interaction,0,,,54,4,0.0
+prefix:ot >> interior:ai,PC1272,interaction,0,,,123,9,0.0
+prefix:ot >> interior:aii,PC1273,interaction,0,,,147,5,0.0
+prefix:ot >> interior:al,PC1274,interaction,0,,,45,27,0.0
+prefix:ot >> interior:che,PC1275,interaction,0,,,80,17,0.0
+prefix:ot >> interior:cho,PC1276,interaction,0,,,63,15,0.0
+prefix:ot >> interior:ed,PC1277,interaction,0,,,166,13,0.0
+prefix:ot >> interior:eed,PC1278,interaction,0,,,99,8,0.0
+prefix:ot >> interior:eo,PC1279,interaction,0,,,91,22,0.0
+prefix:otch >> interior:ed,PC1280,interaction,0,,,36,4,0.0
+prefix:ote >> interior:od,PC1281,interaction,0,,,33,9,0.0
+prefix:pch >> interior:ed,PC1282,interaction,0,,,62,10,0.0
+prefix:pch >> interior:eo,PC1283,interaction,0,,,40,18,0.0
+prefix:qo >> interior:da,PC1284,interaction,0,,,82,10,0.0
+prefix:qo >> interior:ka,PC1285,interaction,1,1,45,1015,41,0.142251
+prefix:qo >> interior:kch,PC1286,interaction,1,6,323,260,35,0.009593
+prefix:qo >> interior:ke,PC1287,interaction,1,3,185,605,55,0.003228
+prefix:qo >> interior:kee,PC1288,interaction,1,4,235,737,39,0.026503
+prefix:qo >> interior:keee,PC1289,interaction,0,,,40,7,0.0
+prefix:qo >> interior:ko,PC1290,interaction,0,,,180,31,0.0
+prefix:qo >> interior:ksh,PC1291,interaction,0,,,40,10,0.0
+prefix:qo >> interior:lch,PC1292,interaction,0,,,33,10,0.0
+prefix:qo >> interior:lk,PC1293,interaction,0,,,31,12,0.0
+prefix:qo >> interior:pch,PC1294,interaction,0,,,110,32,0.0
+prefix:qo >> interior:ta,PC1295,interaction,1,1,20,306,29,0.001843
+prefix:qo >> interior:tch,PC1296,interaction,1,2,150,208,34,0.005714
+prefix:qo >> interior:te,PC1297,interaction,0,,,178,31,0.0
+prefix:qo >> interior:tee,PC1298,interaction,0,,,150,16,0.0
+prefix:qo >> interior:to,PC1299,interaction,1,2,96,110,30,0.000453
+prefix:qok >> interior:ai,PC1300,interaction,0,,,304,6,0.0
+prefix:qok >> interior:aii,PC1301,interaction,1,1,16,269,3,0.001109
+prefix:qok >> interior:al,PC1302,interaction,1,1,30,48,20,0.000911
+prefix:qok >> interior:che,PC1303,interaction,0,,,77,9,0.0
+prefix:qok >> interior:cho,PC1304,interaction,0,,,35,9,0.0
+prefix:qok >> interior:ed,PC1305,interaction,1,3,180,298,8,0.002401
+prefix:qok >> interior:eed,PC1306,interaction,0,,,322,7,0.0
+prefix:qok >> interior:eeo,PC1307,interaction,0,,,47,14,0.0
+prefix:qok >> interior:eo,PC1308,interaction,1,10,430,130,17,0.022865
+prefix:qop >> interior:che,PC1309,interaction,0,,,54,14,0.0
+prefix:qot >> interior:ai,PC1310,interaction,0,,,69,7,0.0
+prefix:qot >> interior:che,PC1311,interaction,0,,,60,8,0.0
+prefix:qot >> interior:cho,PC1312,interaction,0,,,34,8,0.0
+prefix:qot >> interior:ed,PC1313,interaction,0,,,101,9,0.0
+prefix:qot >> interior:eo,PC1314,interaction,0,,,32,9,0.0
+prefix:she >> interior:da,PC1315,interaction,0,,,48,9,0.0
+prefix:she >> interior:od,PC1316,interaction,0,,,56,6,0.0
+prefix:sho >> interior:da,PC1317,interaction,0,,,37,8,0.0
+prefix:tch >> interior:ed,PC1318,interaction,0,,,44,9,0.0
+prefix:ych >> interior:eo,PC1319,interaction,0,,,37,15,0.0
+prefix:yk >> interior:aii,PC1320,interaction,0,,,48,3,0.0
+prefix:yk >> interior:eed,PC1321,interaction,0,,,34,6,0.0
+prefix:yk >> interior:eeo,PC1322,interaction,0,,,31,10,0.0
+prefix:yk >> interior:eo,PC1323,interaction,0,,,40,12,0.0
